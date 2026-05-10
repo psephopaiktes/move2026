@@ -6,7 +6,6 @@ https://suumo.jp/chintai/bc_100502621523/
 https://suumo.jp/chintai/bc_100502258740/
 https://suumo.jp/chintai/bc_100502738731/
 https://suumo.jp/chintai/bc_100491002107/
-https://suumo.jp/chintai/bc_100503732292/
 https://suumo.jp/chintai/bc_100502873998/
 https://suumo.jp/chintai/bc_100499365086/
 https://suumo.jp/chintai/bc_100502914439/
@@ -21,7 +20,6 @@ https://suumo.jp/chintai/bc_100502416452/
 https://suumo.jp/chintai/bc_100504662659/
 https://suumo.jp/chintai/bc_100504015734/
 https://suumo.jp/chintai/bc_100480349207/
-https://suumo.jp/chintai/bc_100456706444/
 https://suumo.jp/chintai/bc_100480997804/
 https://suumo.jp/chintai/bc_100501075316/
 https://suumo.jp/chintai/bc_100504737902/

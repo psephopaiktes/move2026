@@ -552,98 +552,6 @@
     "fetchedAt": "2026-05-10"
   },
   {
-    "id": "bc_100502738731",
-    "suumoUrl": "https://suumo.jp/chintai/bc_100502738731/",
-    "name": "アルシオン中野坂上",
-    "thumbnailPath": "thumbnails/bc_100502738731.jpg",
-    "photoUrls": [
-      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_ro.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_1o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_2o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_3o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_6o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_5o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_11o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_4o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_8o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_10o.jpg"
-    ],
-    "address": "東京都中野区中央１",
-    "station": [
-      {
-        "line": "東京メトロ丸ノ内線",
-        "name": "中野坂上駅",
-        "walkMin": 7
-      },
-      {
-        "line": "ＪＲ山手線",
-        "name": "新大久保駅",
-        "walkMin": 14
-      },
-      {
-        "line": "ＪＲ中央線",
-        "name": "東中野駅",
-        "walkMin": 11
-      }
-    ],
-    "layout": {
-      "plan": "1LDK",
-      "areaSqm": 43.08
-    },
-    "building": {
-      "builtYear": 2004,
-      "structure": "鉄筋コン",
-      "floor": 1,
-      "totalFloors": 6,
-      "facing": "北東",
-      "totalUnits": null
-    },
-    "monthly": {
-      "total": 191950,
-      "rent": 153000,
-      "maintenance": 12000,
-      "parking": 26950
-    },
-    "initial": {
-      "total": 153000,
-      "deposit": 0,
-      "keyMoney": 153000,
-      "guarantee": 0
-    },
-    "facilities": {
-      "parkingDistanceM": 138,
-      "bikeParking": null,
-      "internet": "光ファイバー",
-      "garbageOnSite": true
-    },
-    "area": {
-      "nearestIc": {
-        "name": "首都高速4号新宿線 中野長者橋出入口",
-        "driveMin": 5
-      },
-      "surroundings": [
-        "マルエツ プチ 中野中央店（スーパー）まで240m",
-        "ファミリーマート 中野中央一丁目店（コンビニ）まで318m",
-        "スギドラッグ中野中央店（ドラッグストア）まで476m",
-        "ユニゾンモール東中野（ショッピングセンター）まで1045m",
-        "セイメイ内科（病院）まで277m",
-        "新宿区立柏木子ども園（幼稚園・保育園）まで364m"
-      ],
-      "hazard": {
-        "flood": "low",
-        "landslide": "low",
-        "tsunami": "low",
-        "sourceUrl": "https://www.city.tokyo-nakano.lg.jp/dept/506000/d000091.html",
-        "note": "武蔵野台地上で浸水想定区域外"
-      }
-    },
-    "misc": {
-      "contractType": "普通借家",
-      "cornerUnit": true
-    },
-    "fetchedAt": "2026-05-10"
-  },
-  {
     "id": "bc_100491002107",
     "suumoUrl": "https://suumo.jp/chintai/bc_100491002107/",
     "name": "デュフレ自由が丘",
@@ -736,10 +644,10 @@
     "fetchedAt": "2026-05-10"
   },
   {
-    "id": "bc_100503732292",
-    "suumoUrl": "https://suumo.jp/chintai/bc_100503732292/",
+    "id": "bc_100502873998",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100502873998/",
     "name": "フレンシア浅草橋",
-    "thumbnailPath": "thumbnails/bc_100503732292.jpg",
+    "thumbnailPath": "thumbnails/bc_100502873998.jpg",
     "photoUrls": [],
     "address": "東京都台東区柳橋２",
     "station": [
@@ -813,81 +721,6 @@
     "misc": {
       "contractType": "仲介",
       "cornerUnit": true
-    },
-    "fetchedAt": "2026-05-10"
-  },
-  {
-    "id": "bc_100502873998",
-    "suumoUrl": "https://suumo.jp/chintai/bc_100502873998/",
-    "name": "デュオ・スカーラ蒲田2",
-    "thumbnailPath": "thumbnails/bc_100502873998.jpg",
-    "photoUrls": [
-      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_ro.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_1o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_2o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_4o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_6o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_5o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_3o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_9o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_7o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_8o.jpg"
-    ],
-    "address": "東京都大田区蒲田５",
-    "station": [
-      {
-        "line": "ＪＲ京浜東北線",
-        "name": "蒲田",
-        "walkMin": 5
-      }
-    ],
-    "layout": {
-      "plan": "1LDK",
-      "areaSqm": 37.87
-    },
-    "building": {
-      "builtYear": 2003,
-      "structure": "RC",
-      "floor": 0,
-      "totalFloors": 11,
-      "facing": "西",
-      "totalUnits": 60
-    },
-    "monthly": {
-      "total": 140000,
-      "rent": 140000,
-      "maintenance": 0,
-      "parking": 0
-    },
-    "initial": {
-      "total": 0,
-      "deposit": 0,
-      "keyMoney": 0,
-      "guarantee": 0
-    },
-    "facilities": {
-      "parkingDistanceM": null,
-      "bikeParking": null,
-      "internet": null,
-      "garbageOnSite": null
-    },
-    "area": {
-      "nearestIc": {
-        "name": "首都高速1号羽田線 平和島出入口",
-        "driveMin": 12
-      },
-      "surroundings": [],
-      "hazard": {
-        "flood": "mid",
-        "landslide": "low",
-        "tsunami": "low",
-        "sourceUrl": "https://www.city.ota.tokyo.jp/seikatsu/bousai_anzen/saigaitaisaku/hazardmap/index.html",
-        "note": "呑川流域低地。多摩川・呑川氾濫時0.5-3m想定"
-      }
-    },
-    "misc": {
-      "contractType": "unknown",
-      "cornerUnit": null
     },
     "fetchedAt": "2026-05-10"
   },
@@ -1899,10 +1732,10 @@
     "fetchedAt": "2026-05-10"
   },
   {
-    "id": "bc_100504015734",
-    "suumoUrl": "https://suumo.jp/chintai/bc_100504015734/",
+    "id": "bc_100480349207",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100480349207/",
     "name": "Ｄ　Ｐａｉｎａ　今井南町",
-    "thumbnailPath": "thumbnails/bc_100504015734.jpg",
+    "thumbnailPath": "thumbnails/bc_100480349207.jpg",
     "photoUrls": [],
     "address": "神奈川県川崎市中原区今井南町",
     "station": [
@@ -1975,196 +1808,6 @@
     },
     "misc": {
       "contractType": "仲介",
-      "cornerUnit": null
-    },
-    "fetchedAt": "2026-05-10"
-  },
-  {
-    "id": "bc_100480349207",
-    "suumoUrl": "https://suumo.jp/chintai/bc_100480349207/",
-    "name": "GENOVIA上野2skygarden",
-    "thumbnailPath": "thumbnails/bc_100480349207.jpg",
-    "photoUrls": [
-      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_ro.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_1o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_2o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_3o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_5o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_9o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_4o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_8o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_7o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_6o.jpg"
-    ],
-    "address": "東京都台東区北上野1",
-    "station": [
-      {
-        "line": "JR山手線",
-        "name": "上野",
-        "walkMin": 5
-      },
-      {
-        "line": "JR京浜東北線",
-        "name": "上野",
-        "walkMin": 5
-      },
-      {
-        "line": "JR常磐線",
-        "name": "上野",
-        "walkMin": 5
-      },
-      {
-        "line": "東京メトロ銀座線",
-        "name": "上野",
-        "walkMin": 5
-      },
-      {
-        "line": "東京メトロ日比谷線",
-        "name": "上野",
-        "walkMin": 5
-      },
-      {
-        "line": "JR山手線",
-        "name": "鶯谷",
-        "walkMin": 8
-      }
-    ],
-    "layout": {
-      "plan": "1LDK",
-      "areaSqm": 40.13
-    },
-    "building": {
-      "builtYear": 2019,
-      "structure": "RC",
-      "floor": 0,
-      "totalFloors": 11,
-      "facing": "北",
-      "totalUnits": 29
-    },
-    "monthly": {
-      "total": 165000,
-      "rent": 165000,
-      "maintenance": 0,
-      "parking": 0
-    },
-    "initial": {
-      "total": 0,
-      "deposit": 0,
-      "keyMoney": 0,
-      "guarantee": 0
-    },
-    "facilities": {
-      "parkingDistanceM": null,
-      "bikeParking": null,
-      "internet": null,
-      "garbageOnSite": null
-    },
-    "area": {
-      "nearestIc": {
-        "name": "首都高速 上野出入口",
-        "driveMin": 4
-      },
-      "surroundings": [
-        "スーパー",
-        "コンビニ",
-        "薬局（薬店）",
-        "幼稚園・保育園",
-        "小学校",
-        "中学校"
-      ],
-      "hazard": {
-        "flood": "mid",
-        "landslide": "low",
-        "tsunami": "low",
-        "sourceUrl": "https://www.city.taito.lg.jp/kurashi/anzen/saigai/hazardmap/index.html",
-        "note": "下町低地。荒川氾濫時0.5-3m想定"
-      }
-    },
-    "misc": {
-      "contractType": "unknown",
-      "cornerUnit": null
-    },
-    "fetchedAt": "2026-05-10"
-  },
-  {
-    "id": "bc_100456706444",
-    "suumoUrl": "https://suumo.jp/chintai/bc_100456706444/",
-    "name": "サンセゾンアイ",
-    "thumbnailPath": "thumbnails/bc_100456706444.jpg",
-    "photoUrls": [
-      "https://img01.suumo.com/front/gazo/fr/bukken/709/100496046709/100496046709_11o.jpg"
-    ],
-    "address": "東京都北区志茂４",
-    "station": [
-      {
-        "line": "東京メトロ南北線",
-        "name": "志茂駅",
-        "walkMin": 3
-      },
-      {
-        "line": "ＪＲ京浜東北線",
-        "name": "赤羽駅",
-        "walkMin": 15
-      },
-      {
-        "line": "埼玉高速鉄道",
-        "name": "赤羽岩淵駅",
-        "walkMin": 16
-      }
-    ],
-    "layout": {
-      "plan": "1LDK",
-      "areaSqm": 42.38
-    },
-    "building": {
-      "builtYear": 1998,
-      "structure": "鉄筋コン",
-      "floor": 0,
-      "totalFloors": 5,
-      "facing": "南西",
-      "totalUnits": 73
-    },
-    "monthly": {
-      "total": 157000,
-      "rent": 157000,
-      "maintenance": 0,
-      "parking": 0
-    },
-    "initial": {
-      "total": 0,
-      "deposit": 0,
-      "keyMoney": 0,
-      "guarantee": 0
-    },
-    "facilities": {
-      "parkingDistanceM": null,
-      "bikeParking": true,
-      "internet": "光ファイバー",
-      "garbageOnSite": true
-    },
-    "area": {
-      "nearestIc": {
-        "name": "首都高速 中央環状線 板橋本町出入口",
-        "driveMin": 11
-      },
-      "surroundings": [
-        "まいばすけっと 志茂４丁目店（スーパー）まで119m",
-        "キッチンオリジン志茂店（飲食店）まで313m",
-        "ローソン 志茂三丁目店（コンビニ）まで342m",
-        "北区立赤羽岩淵中学校（中学校）まで715m",
-        "北区立なでしこ小学校（小学校）まで797m",
-        "サンドラッグ 赤羽店（ドラッグストア）まで829m"
-      ],
-      "hazard": {
-        "flood": "high",
-        "landslide": "low",
-        "tsunami": "low",
-        "sourceUrl": "https://www.city.kita.tokyo.jp/bosai/bosai/saigai/hazardmap.html",
-        "note": "荒川・新河岸川低地。荒川氾濫時の浸水想定3-5m級"
-      }
-    },
-    "misc": {
-      "contractType": "unknown",
       "cornerUnit": null
     },
     "fetchedAt": "2026-05-10"

@@ -12,7 +12,12 @@
       "Bash(bash /Users/a-hirata/Desktop/move2026/scripts/fetch-thumbnails.sh)",
       "Bash(node /Users/a-hirata/Desktop/move2026/scripts/merge-photos.mjs)",
       "Bash(node -e ' *)",
-      "Bash(curl -sL \"https://psephopaiktes.github.io/move2026/\" -w \"\\\\n[HTTP %{http_code}]\\\\n\")"
+      "Bash(curl -sL \"https://psephopaiktes.github.io/move2026/\" -w \"\\\\n[HTTP %{http_code}]\\\\n\")",
+      "Bash(curl -sL -A \"Mozilla/5.0\" \"https://suumo.jp/chintai/bc_100502873998/\" -o /tmp/check_873998.html -w \"final_url=%{url_effective}\\\\nhttp=%{http_code}\\\\n\")",
+      "Bash(grep -oE '物件名[^<]{0,80}' /tmp/check_873998.html)",
+      "Bash(grep -oE '所在地[^<]{0,50}' /tmp/check_873998.html)",
+      "Bash(node /Users/a-hirata/Desktop/move2026/scripts/verify-names.mjs)",
+      "Bash(node /Users/a-hirata/Desktop/move2026/scripts/swap-pairs.mjs)"
     ]
   }
 }

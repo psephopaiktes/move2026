@@ -18,5 +18,11 @@ export default defineConfig(({ command }) => ({
   },
   server: {
     open: true,
+    watch: {
+      // ratings.json は dev plugin 経由で頻繁に書き換わる。
+      // Vite に検知させると HMR でモジュール再ロード→WebSocket 切断が走り、
+      // メモ保存(debounce)中の fetch が "Failed to fetch" で死ぬ。
+      ignored: ["**/src/data/ratings.json"],
+    },
   },
 }));

@@ -41,7 +41,6 @@
 - `import.meta.env.DEV === false`
 - `RatingControl` のクリックハンドラは `alert()` を出して終了する
 - メモも編集はできるが保存されない
-- カード下に「GitHub Pages では編集が反映されません」のヒント表示あり
 
 ## バックアップ
 

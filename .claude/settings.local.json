@@ -11,7 +11,8 @@
       "Bash(chmod +x /Users/a-hirata/Desktop/move2026/scripts/fetch-thumbnails.sh)",
       "Bash(bash /Users/a-hirata/Desktop/move2026/scripts/fetch-thumbnails.sh)",
       "Bash(node /Users/a-hirata/Desktop/move2026/scripts/merge-photos.mjs)",
-      "Bash(node -e ' *)"
+      "Bash(node -e ' *)",
+      "Bash(curl -sL \"https://psephopaiktes.github.io/move2026/\" -w \"\\\\n[HTTP %{http_code}]\\\\n\")"
     ]
   }
 }

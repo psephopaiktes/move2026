@@ -1,0 +1,2448 @@
+[
+  {
+    "id": "bc_100505077565",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100505077565/",
+    "name": "赤羽シティハイツ",
+    "thumbnailPath": "thumbnails/bc_100505077565.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_s6o.jpg"
+    ],
+    "address": "東京都北区岩淵町",
+    "station": [
+      {
+        "line": "JR埼京線",
+        "name": "赤羽駅",
+        "walkMin": 12
+      },
+      {
+        "line": "東京メトロ南北線",
+        "name": "赤羽岩淵駅",
+        "walkMin": 3
+      },
+      {
+        "line": "東京メトロ南北線",
+        "name": "志茂駅",
+        "walkMin": 19
+      }
+    ],
+    "layout": {
+      "plan": "3LDK",
+      "areaSqm": 72.76
+    },
+    "building": {
+      "builtYear": 1981,
+      "structure": "鉄筋コン",
+      "floor": 3,
+      "totalFloors": 5,
+      "facing": "南",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 187000,
+      "rent": 149000,
+      "maintenance": 10000,
+      "parking": 28000
+    },
+    "initial": {
+      "total": 149000,
+      "deposit": 0,
+      "keyMoney": 149000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 200,
+      "bikeParking": true,
+      "internet": "光ファイバー、CATV",
+      "garbageOnSite": true
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速 中央環状線 板橋本町出入口",
+        "driveMin": 12
+      },
+      "surroundings": [
+        "ベルク（その他）まで3542m",
+        "じゃなさん（飲食店）まで2973m",
+        "セリア（その他）まで2987m",
+        "サイゼリヤ（飲食店）まで3752m",
+        "ユニクロ（その他）まで3424m",
+        "ファミリーマート（コンビニ）まで2611m"
+      ],
+      "hazard": {
+        "flood": "high",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.kita.tokyo.jp/bosai/bosai/saigai/hazardmap.html",
+        "note": "荒川・新河岸川に近接する低地。荒川氾濫時の浸水想定3-5m級"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": true
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100505035120",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100505035120/",
+    "name": "パークキューブ西ヶ原ステージ",
+    "thumbnailPath": "thumbnails/bc_100505035120.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_10o.jpg"
+    ],
+    "address": "東京都北区西ケ原４",
+    "station": [
+      {
+        "line": "都営三田線",
+        "name": "西巣鴨駅",
+        "walkMin": 8
+      },
+      {
+        "line": "ＪＲ山手線",
+        "name": "巣鴨駅",
+        "walkMin": 15
+      },
+      {
+        "line": "都電荒川線",
+        "name": "西ヶ原四丁目駅",
+        "walkMin": 3
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 44.27
+    },
+    "building": {
+      "builtYear": 2009,
+      "structure": "鉄筋コン",
+      "floor": 3,
+      "totalFloors": 14,
+      "facing": "unknown",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 210000,
+      "rent": 167000,
+      "maintenance": 10000,
+      "parking": 33000
+    },
+    "initial": {
+      "total": 334000,
+      "deposit": 167000,
+      "keyMoney": 167000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": null,
+      "bikeParking": true,
+      "internet": "光ファイバー、CATV、CATVインターネット",
+      "garbageOnSite": true
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速 中央環状線 西巣鴨出入口",
+        "driveMin": 7
+      },
+      "surroundings": [
+        "MARUSHO西ヶ原店（スーパー）まで399m",
+        "まいばすけっと巣鴨5丁目店（スーパー）まで784m",
+        "セブンイレブン北区西ヶ原4丁目店（コンビニ）まで209m",
+        "サンクス西ヶ原4丁目店（コンビニ）まで361m",
+        "クリエイトエス・ディー北区西ヶ原店（ドラッグストア）まで326m",
+        "（株）かねたや巣鴨店（ホームセンター）まで1108m"
+      ],
+      "hazard": {
+        "flood": "low",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.kita.tokyo.jp/bosai/bosai/saigai/hazardmap.html",
+        "note": "本郷台地上、河川から離れた高台で浸水想定区域外"
+      }
+    },
+    "misc": {
+      "contractType": "定期借家",
+      "cornerUnit": null
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100505171877",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100505171877/",
+    "name": "グランフォース上野入谷",
+    "thumbnailPath": "thumbnails/bc_100505171877.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/877/100505171877/100505171877_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/877/100505171877/100505171877_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/877/100505171877/100505171877_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/877/100505171877/100505171877_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/877/100505171877/100505171877_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/877/100505171877/100505171877_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/877/100505171877/100505171877_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/877/100505171877/100505171877_10o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/877/100505171877/100505171877_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/877/100505171877/100505171877_9o.jpg"
+    ],
+    "address": "東京都台東区入谷１",
+    "station": [
+      {
+        "line": "東京メトロ日比谷線",
+        "name": "入谷駅",
+        "walkMin": 1
+      },
+      {
+        "line": "ＪＲ山手線",
+        "name": "鶯谷駅",
+        "walkMin": 8
+      },
+      {
+        "line": "ＪＲ山手線",
+        "name": "上野駅",
+        "walkMin": 11
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 41.14
+    },
+    "building": {
+      "builtYear": 2013,
+      "structure": "鉄筋コン",
+      "floor": 0,
+      "totalFloors": 14,
+      "facing": "南西",
+      "totalUnits": 39
+    },
+    "monthly": {
+      "total": 200000,
+      "rent": 150000,
+      "maintenance": 15000,
+      "parking": 35000
+    },
+    "initial": {
+      "total": 300000,
+      "deposit": 150000,
+      "keyMoney": 150000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 200,
+      "bikeParking": true,
+      "internet": "光ファイバー",
+      "garbageOnSite": true
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速 上野出入口",
+        "driveMin": 5
+      },
+      "surroundings": [
+        "蔵前小学校（小学校）まで1098m",
+        "そば処満留賀（飲食店）まで1592m",
+        "元楽（飲食店）まで2436m",
+        "横浜家系ラーメン（飲食店）まで2404m",
+        "ガスト（飲食店）まで464m",
+        "やよい軒（飲食店）まで2324m"
+      ],
+      "hazard": {
+        "flood": "mid",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.taito.lg.jp/kurashi/anzen/saigai/hazardmap/index.html",
+        "note": "下町低地。荒川氾濫時の浸水想定0.5-3m級"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": true
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100495112985",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100495112985/",
+    "name": "小田急線 下北沢駅 地下2地上3階建 築19年",
+    "thumbnailPath": "thumbnails/bc_100495112985.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_10o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_5o.jpg"
+    ],
+    "address": "東京都世田谷区代田２",
+    "station": [
+      {
+        "line": "小田急線",
+        "name": "下北沢駅",
+        "walkMin": 7
+      },
+      {
+        "line": "京王井の頭線",
+        "name": "新代田駅",
+        "walkMin": 11
+      },
+      {
+        "line": "小田急線",
+        "name": "世田谷代田駅",
+        "walkMin": 5
+      }
+    ],
+    "layout": {
+      "plan": "1K",
+      "areaSqm": 36.58
+    },
+    "building": {
+      "builtYear": 2008,
+      "structure": "鉄筋コンクリート",
+      "floor": 1,
+      "totalFloors": 5,
+      "facing": "東",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 196800,
+      "rent": 149000,
+      "maintenance": 10000,
+      "parking": 37800
+    },
+    "initial": {
+      "total": 149000,
+      "deposit": 0,
+      "keyMoney": 149000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": null,
+      "bikeParking": true,
+      "internet": "光ファイバー",
+      "garbageOnSite": true
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速3号渋谷線 池尻出入口",
+        "driveMin": 10
+      },
+      "surroundings": [
+        "代田しなのや（スーパー）まで350m",
+        "ヤマザキショップ代田サンカツ店（コンビニ）まで146m",
+        "トモズ代沢店（ドラッグストア）まで352m",
+        "下北沢保育園（幼稚園・保育園）まで262m",
+        "世田谷代沢郵便局（郵便局）まで343m",
+        "餃子の王将下北沢店（その他）まで335m"
+      ],
+      "hazard": {
+        "flood": "low",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.setagaya.lg.jp/mokuji/kurashi/002/004/d00005167.html",
+        "note": "武蔵野台地上で大河川から離れた高台。北沢川暗渠の谷部のみ局地的注意"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": true
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100502621523",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100502621523/",
+    "name": "東京メトロ千代田線 西日暮里駅 12階建 築11年",
+    "thumbnailPath": "thumbnails/bc_100502621523.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_6o.jpg"
+    ],
+    "address": "東京都北区田端新町１",
+    "station": [
+      {
+        "line": "東京メトロ千代田線",
+        "name": "西日暮里駅",
+        "walkMin": 7
+      },
+      {
+        "line": "ＪＲ京浜東北線",
+        "name": "田端駅",
+        "walkMin": 13
+      },
+      {
+        "line": "京成本線",
+        "name": "新三河島駅",
+        "walkMin": 7
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 40.9
+    },
+    "building": {
+      "builtYear": 2015,
+      "structure": "鉄筋コン",
+      "floor": 4,
+      "totalFloors": 12,
+      "facing": "西",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 190000,
+      "rent": 145000,
+      "maintenance": 12000,
+      "parking": 33000
+    },
+    "initial": {
+      "total": 290000,
+      "deposit": 145000,
+      "keyMoney": 145000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 250,
+      "bikeParking": true,
+      "internet": "光ファイバー、LAN、ネット専用回線対応",
+      "garbageOnSite": true
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速 中央環状線 王子北出入口",
+        "driveMin": 10
+      },
+      "surroundings": [
+        "まいばすけっと（スーパー）まで160m",
+        "セブンイレブン（コンビニ）まで110m",
+        "ファミリーマート（コンビニ）まで170m",
+        "くすりの福太郎（ドラッグストア）まで150m",
+        "ほっともっと（飲食店）まで170m",
+        "西日暮里郵便局（郵便局）まで420m"
+      ],
+      "hazard": {
+        "flood": "mid",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.kita.tokyo.jp/bosai/bosai/saigai/hazardmap.html",
+        "note": "本郷台地と低地の境界付近。荒川氾濫時0.5-3m想定"
+      }
+    },
+    "misc": {
+      "contractType": "仲介",
+      "cornerUnit": true
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100502258740",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100502258740/",
+    "name": "グランリーオ川崎レジデンス",
+    "thumbnailPath": "thumbnails/bc_100502258740.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_5o.jpg"
+    ],
+    "address": "神奈川県川崎市川崎区本町１",
+    "station": [
+      {
+        "line": "ＪＲ東海道本線",
+        "name": "川崎駅",
+        "walkMin": 7
+      },
+      {
+        "line": "京急本線",
+        "name": "京急川崎駅",
+        "walkMin": 6
+      },
+      {
+        "line": "京急大師線",
+        "name": "港町駅",
+        "walkMin": 12
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 40.93
+    },
+    "building": {
+      "builtYear": 2023,
+      "structure": "鉄筋コン",
+      "floor": 7,
+      "totalFloors": 10,
+      "facing": "南東",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 187400,
+      "rent": 152000,
+      "maintenance": 6400,
+      "parking": 29000
+    },
+    "initial": {
+      "total": 304000,
+      "deposit": 0,
+      "keyMoney": 304000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 100,
+      "bikeParking": null,
+      "internet": "ネット使用料不要",
+      "garbageOnSite": true
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速 横羽線 浅田出入口",
+        "driveMin": 8
+      },
+      "surroundings": [
+        "ユニクロ川崎ダイス店（ショッピングセンター）まで571m",
+        "まいばすけっと川崎本町2丁目店（スーパー）まで167m",
+        "オーケー川崎本町店（スーパー）まで350m",
+        "ファミリーマート川崎本町一丁目店（コンビニ）まで293m",
+        "ココカラファイン京急川崎駅前店（ドラッグストア）まで546m",
+        "ヨドバシカメラヨドバシアウトレット京急川崎（ホームセンター）まで782m"
+      ],
+      "hazard": {
+        "flood": "mid",
+        "landslide": "low",
+        "tsunami": "mid",
+        "sourceUrl": "https://www.city.kawasaki.jp/kawasakikuyakusho/cmsfiles/contents/0000113/113789/index.html",
+        "note": "多摩川河口部。多摩川氾濫時0.5-3m、津波・高潮浸水想定区域内"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": true
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100502738731",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100502738731/",
+    "name": "アルシオン中野坂上",
+    "thumbnailPath": "thumbnails/bc_100502738731.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_11o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/731/100502738731/100502738731_10o.jpg"
+    ],
+    "address": "東京都中野区中央１",
+    "station": [
+      {
+        "line": "東京メトロ丸ノ内線",
+        "name": "中野坂上駅",
+        "walkMin": 7
+      },
+      {
+        "line": "ＪＲ山手線",
+        "name": "新大久保駅",
+        "walkMin": 14
+      },
+      {
+        "line": "ＪＲ中央線",
+        "name": "東中野駅",
+        "walkMin": 11
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 43.08
+    },
+    "building": {
+      "builtYear": 2004,
+      "structure": "鉄筋コン",
+      "floor": 1,
+      "totalFloors": 6,
+      "facing": "北東",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 191950,
+      "rent": 153000,
+      "maintenance": 12000,
+      "parking": 26950
+    },
+    "initial": {
+      "total": 153000,
+      "deposit": 0,
+      "keyMoney": 153000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 138,
+      "bikeParking": null,
+      "internet": "光ファイバー",
+      "garbageOnSite": true
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速4号新宿線 中野長者橋出入口",
+        "driveMin": 5
+      },
+      "surroundings": [
+        "マルエツ プチ 中野中央店（スーパー）まで240m",
+        "ファミリーマート 中野中央一丁目店（コンビニ）まで318m",
+        "スギドラッグ中野中央店（ドラッグストア）まで476m",
+        "ユニゾンモール東中野（ショッピングセンター）まで1045m",
+        "セイメイ内科（病院）まで277m",
+        "新宿区立柏木子ども園（幼稚園・保育園）まで364m"
+      ],
+      "hazard": {
+        "flood": "low",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.tokyo-nakano.lg.jp/dept/506000/d000091.html",
+        "note": "武蔵野台地上で浸水想定区域外"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": true
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100491002107",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100491002107/",
+    "name": "デュフレ自由が丘",
+    "thumbnailPath": "thumbnails/bc_100491002107.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_11o.jpg"
+    ],
+    "address": "東京都世田谷区奥沢５",
+    "station": [
+      {
+        "line": "東急東横線",
+        "name": "自由が丘駅",
+        "walkMin": 7
+      },
+      {
+        "line": "東急大井町線",
+        "name": "九品仏駅",
+        "walkMin": 15
+      },
+      {
+        "line": "東急東横線",
+        "name": "田園調布駅",
+        "walkMin": 16
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 36.21
+    },
+    "building": {
+      "builtYear": 2005,
+      "structure": "鉄筋コンクリート",
+      "floor": 3,
+      "totalFloors": 6,
+      "facing": "西",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 192400,
+      "rent": 150000,
+      "maintenance": 16000,
+      "parking": 26400
+    },
+    "initial": {
+      "total": 300000,
+      "deposit": 150000,
+      "keyMoney": 150000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 283,
+      "bikeParking": null,
+      "internet": "光ファイバー、CATV",
+      "garbageOnSite": null
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速2号目黒線 戸越出入口",
+        "driveMin": 15
+      },
+      "surroundings": [
+        "自由が丘スイーツフォレスト（ショッピングセンター）まで471m",
+        "ミニコープ 奥沢店（スーパー）まで174m",
+        "ローソン奥沢駅前店（コンビニ）まで73m",
+        "セイムス奥沢店（ドラッグストア）まで147m",
+        "キッチンオリジン 奥沢店（飲食店）まで41m",
+        "大田区立田園調布中学校（中学校）まで849m"
+      ],
+      "hazard": {
+        "flood": "low",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.setagaya.lg.jp/mokuji/kurashi/002/004/d00005167.html",
+        "note": "武蔵野台地上。呑川流域から離れた高台で浸水想定区域外"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": true
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100503732292",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100503732292/",
+    "name": "フレンシア浅草橋",
+    "thumbnailPath": "thumbnails/bc_100503732292.jpg",
+    "photoUrls": [],
+    "address": "東京都台東区柳橋２",
+    "station": [
+      {
+        "line": "都営浅草線",
+        "name": "浅草橋駅",
+        "walkMin": 1
+      },
+      {
+        "line": "都営浅草線",
+        "name": "蔵前駅",
+        "walkMin": 3
+      },
+      {
+        "line": "ＪＲ総武線",
+        "name": "両国駅",
+        "walkMin": 15
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 38.8
+    },
+    "building": {
+      "builtYear": 2016,
+      "structure": "鉄筋コン",
+      "floor": 2,
+      "totalFloors": 12,
+      "facing": "unknown",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 213000,
+      "rent": 169000,
+      "maintenance": 9000,
+      "parking": 35000
+    },
+    "initial": {
+      "total": 338000,
+      "deposit": 169000,
+      "keyMoney": 169000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 80,
+      "bikeParking": true,
+      "internet": "ネット専用回線、ネット使用料不要",
+      "garbageOnSite": true
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速6号向島線 向島出入口",
+        "driveMin": 6
+      },
+      "surroundings": [
+        "VAN蔵前（ショッピングセンター）まで365m",
+        "マルエツプチ柳橋二丁目店（スーパー）まで225m",
+        "まいばすけっと浅草橋駅北店（スーパー）まで361m",
+        "リコス柳橋2丁目店（スーパー）まで373m",
+        "セブンイレブン台東柳橋2丁目店（コンビニ）まで80m",
+        "ファミリーマート都営浅草橋駅前店（コンビニ）まで106m"
+      ],
+      "hazard": {
+        "flood": "high",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.taito.lg.jp/kurashi/anzen/saigai/hazardmap/index.html",
+        "note": "隅田川・神田川合流近接の下町低地。荒川氾濫時3-5m級浸水想定"
+      }
+    },
+    "misc": {
+      "contractType": "仲介",
+      "cornerUnit": true
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100502873998",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100502873998/",
+    "name": "デュオ・スカーラ蒲田2",
+    "thumbnailPath": "thumbnails/bc_100502873998.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_8o.jpg"
+    ],
+    "address": "東京都大田区蒲田５",
+    "station": [
+      {
+        "line": "ＪＲ京浜東北線",
+        "name": "蒲田",
+        "walkMin": 5
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 37.87
+    },
+    "building": {
+      "builtYear": 2003,
+      "structure": "RC",
+      "floor": 0,
+      "totalFloors": 11,
+      "facing": "西",
+      "totalUnits": 60
+    },
+    "monthly": {
+      "total": 140000,
+      "rent": 140000,
+      "maintenance": 0,
+      "parking": 0
+    },
+    "initial": {
+      "total": 0,
+      "deposit": 0,
+      "keyMoney": 0,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": null,
+      "bikeParking": null,
+      "internet": null,
+      "garbageOnSite": null
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速1号羽田線 平和島出入口",
+        "driveMin": 12
+      },
+      "surroundings": [],
+      "hazard": {
+        "flood": "mid",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.ota.tokyo.jp/seikatsu/bousai_anzen/saigaitaisaku/hazardmap/index.html",
+        "note": "呑川流域低地。多摩川・呑川氾濫時0.5-3m想定"
+      }
+    },
+    "misc": {
+      "contractType": "unknown",
+      "cornerUnit": null
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100499365086",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100499365086/",
+    "name": "Ｃ′ｅｓｔ ｊｏｌｉ駒込",
+    "thumbnailPath": "thumbnails/bc_100499365086.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/086/100499365086/100499365086_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/086/100499365086/100499365086_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/086/100499365086/100499365086_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/086/100499365086/100499365086_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/086/100499365086/100499365086_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/086/100499365086/100499365086_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/086/100499365086/100499365086_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/086/100499365086/100499365086_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/086/100499365086/100499365086_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/086/100499365086/100499365086_8o.jpg"
+    ],
+    "address": "東京都文京区本駒込５",
+    "station": [
+      {
+        "line": "ＪＲ山手線",
+        "name": "駒込駅",
+        "walkMin": 6
+      },
+      {
+        "line": "都営三田線",
+        "name": "千石駅",
+        "walkMin": 13
+      },
+      {
+        "line": "東京メトロ千代田線",
+        "name": "西日暮里駅",
+        "walkMin": 20
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 40.55
+    },
+    "building": {
+      "builtYear": 2013,
+      "structure": "鉄筋コン",
+      "floor": 11,
+      "totalFloors": 12,
+      "facing": "南東",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 197000,
+      "rent": 149000,
+      "maintenance": 15000,
+      "parking": 33000
+    },
+    "initial": {
+      "total": 149000,
+      "deposit": 0,
+      "keyMoney": 149000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 391,
+      "bikeParking": true,
+      "internet": "光ファイバー",
+      "garbageOnSite": null
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速 中央環状線 西巣鴨出入口",
+        "driveMin": 8
+      },
+      "surroundings": [
+        "文京グリーンコート（ショッピングセンター）まで626m",
+        "トップパルケ田端銀座店（スーパー）まで471m",
+        "ローソン本駒込五丁目店（コンビニ）まで169m",
+        "アーク薬局駒込店（ドラッグストア）まで224m",
+        "ジョナサン 本駒込店（飲食店）まで96m",
+        "女子栄養大学 駒込キャンパス（大学・短大）まで1061m"
+      ],
+      "hazard": {
+        "flood": "low",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.bunkyo.lg.jp/anzen/saigai/hazardmap.html",
+        "note": "本郷台地上で浸水想定区域外"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": true
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100502914439",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100502914439/",
+    "name": "ＡＬＥＲＯ白山",
+    "thumbnailPath": "thumbnails/bc_100502914439.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_10o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_7o.jpg"
+    ],
+    "address": "東京都文京区白山１",
+    "station": [
+      {
+        "line": "都営三田線",
+        "name": "白山駅",
+        "walkMin": 4
+      },
+      {
+        "line": "東京メトロ南北線",
+        "name": "東大前駅",
+        "walkMin": 11
+      },
+      {
+        "line": "東京メトロ南北線",
+        "name": "本駒込駅",
+        "walkMin": 12
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 41.94
+    },
+    "building": {
+      "builtYear": 2015,
+      "structure": "鉄筋コン",
+      "floor": 4,
+      "totalFloors": 4,
+      "facing": "unknown",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 215000,
+      "rent": 170000,
+      "maintenance": 10000,
+      "parking": 35000
+    },
+    "initial": {
+      "total": 170000,
+      "deposit": 170000,
+      "keyMoney": 0,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 200,
+      "bikeParking": true,
+      "internet": "光ファイバー、CATV、ネット使用料不要",
+      "garbageOnSite": null
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速5号池袋線 西神田出入口",
+        "driveMin": 10
+      },
+      "surroundings": [
+        "そば処満留賀（飲食店）まで3507m",
+        "横浜家系ラーメン（飲食店）まで4872m",
+        "ガスト（飲食店）まで3391m",
+        "ポピンズナーサリースクール本郷（その他）まで1051m",
+        "三室戸学園（中学校）まで2730m",
+        "私立開成中学校（中学校）まで2520m"
+      ],
+      "hazard": {
+        "flood": "low",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.bunkyo.lg.jp/anzen/saigai/hazardmap.html",
+        "note": "本郷台地上で浸水想定区域外。白山台斜面端は局地的に注意"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": null
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100499800371",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100499800371/",
+    "name": "コンフォリア北参道",
+    "thumbnailPath": "thumbnails/bc_100499800371.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_11o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_10o.jpg"
+    ],
+    "address": "東京都渋谷区千駄ヶ谷４",
+    "station": [
+      {
+        "line": "東京メトロ副都心線",
+        "name": "北参道駅",
+        "walkMin": 3
+      },
+      {
+        "line": "ＪＲ山手線",
+        "name": "代々木駅",
+        "walkMin": 6
+      },
+      {
+        "line": "ＪＲ中央線",
+        "name": "千駄ケ谷駅",
+        "walkMin": 10
+      }
+    ],
+    "layout": {
+      "plan": "1K",
+      "areaSqm": 35.35
+    },
+    "building": {
+      "builtYear": 2005,
+      "structure": "鉄筋コン",
+      "floor": 9,
+      "totalFloors": 14,
+      "facing": "北東",
+      "totalUnits": 144
+    },
+    "monthly": {
+      "total": 210000,
+      "rent": 162000,
+      "maintenance": 15000,
+      "parking": 33000
+    },
+    "initial": {
+      "total": 162000,
+      "deposit": 162000,
+      "keyMoney": 0,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 81,
+      "bikeParking": true,
+      "internet": "光ファイバー",
+      "garbageOnSite": true
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速4号新宿線 外苑出入口",
+        "driveMin": 5
+      },
+      "surroundings": [
+        "オーケー 千駄ヶ谷店（スーパー）まで469m",
+        "ローソン 北参道駅前店(コンビニ)まで131m",
+        "ココカラファイン JR代々木駅前店（ドラッグストア）まで423m",
+        "CoCo壱番屋 代々木駅西口店（飲食店）まで203m",
+        "津田塾大千駄ヶ谷キャンパス（大学・短大）まで675m",
+        "東海大学医学部付属東京病院（病院）まで388m"
+      ],
+      "hazard": {
+        "flood": "low",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.shibuya.tokyo.jp/kurashi/bosai/saigai/hazardmap.html",
+        "note": "武蔵野台地上で浸水想定区域外"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": null
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100495823003",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100495823003/",
+    "name": "クレストコート大塚",
+    "thumbnailPath": "thumbnails/bc_100495823003.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_11o.jpg"
+    ],
+    "address": "東京都豊島区南大塚１",
+    "station": [
+      {
+        "line": "ＪＲ山手線",
+        "name": "大塚駅",
+        "walkMin": 5
+      },
+      {
+        "line": "都営三田線",
+        "name": "巣鴨駅",
+        "walkMin": 10
+      },
+      {
+        "line": "東京メトロ丸ノ内線",
+        "name": "新大塚駅",
+        "walkMin": 8
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 35.93
+    },
+    "building": {
+      "builtYear": 2021,
+      "structure": "鉄筋コン",
+      "floor": 12,
+      "totalFloors": 12,
+      "facing": "unknown",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 207600,
+      "rent": 167000,
+      "maintenance": 12000,
+      "parking": 28600
+    },
+    "initial": {
+      "total": 334000,
+      "deposit": 167000,
+      "keyMoney": 167000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 380,
+      "bikeParking": true,
+      "internet": "光ファイバー、ネット使用料不要、高速ネット対応",
+      "garbageOnSite": null
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速 中央環状線 西巣鴨出入口",
+        "driveMin": 6
+      },
+      "surroundings": [
+        "アトレヴィ大塚（ショッピングセンター）まで444m",
+        "まいばすけっと 南大塚１丁目店（スーパー）まで72m",
+        "ナチュラルローソン北大塚一丁目店（コンビニ）まで354m",
+        "くすりの福太郎大塚駅前店（ドラッグストア）まで430m",
+        "ゲオ大塚駅南口店（レンタルビデオ）まで361m",
+        "バーガーキング 大塚駅南口店（飲食店）まで340m"
+      ],
+      "hazard": {
+        "flood": "low",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.toshima.lg.jp/223/bosai/saigai/hazardmap/index.html",
+        "note": "豊島台上で浸水想定区域外"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": null
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100503420818",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100503420818/",
+    "name": "ル・リオン池袋コンフォート",
+    "thumbnailPath": "thumbnails/bc_100503420818.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_10o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_7o.jpg"
+    ],
+    "address": "東京都豊島区上池袋３",
+    "station": [
+      {
+        "line": "東武東上線",
+        "name": "北池袋駅",
+        "walkMin": 5
+      },
+      {
+        "line": "都営三田線",
+        "name": "西巣鴨駅",
+        "walkMin": 10
+      },
+      {
+        "line": "ＪＲ山手線",
+        "name": "池袋駅",
+        "walkMin": 13
+      }
+    ],
+    "layout": {
+      "plan": "1DK",
+      "areaSqm": 36.38
+    },
+    "building": {
+      "builtYear": 2009,
+      "structure": "鉄筋コン",
+      "floor": 6,
+      "totalFloors": 14,
+      "facing": "南東",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 161300,
+      "rent": 136000,
+      "maintenance": 0,
+      "parking": 25300
+    },
+    "initial": {
+      "total": 272000,
+      "deposit": 136000,
+      "keyMoney": 136000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 195,
+      "bikeParking": true,
+      "internet": "光ファイバー",
+      "garbageOnSite": true
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速5号池袋線 北池袋出入口",
+        "driveMin": 5
+      },
+      "surroundings": [
+        "業務スーパー上池袋店（スーパー）まで151m",
+        "セブンイレブン上池袋1丁目店（コンビニ）まで90m",
+        "くすりの福太郎上池袋店（ドラッグストア）まで169m",
+        "ABC-MART 池袋店（その他）まで1266m",
+        "株式会社大松ベーカリー（その他）まで1166m",
+        "ビックカメラ 池袋本店（その他）まで1120m"
+      ],
+      "hazard": {
+        "flood": "mid",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.toshima.lg.jp/223/bosai/saigai/hazardmap/index.html",
+        "note": "谷端川（暗渠）流域。内水・河川氾濫時0.5-3m想定エリア"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": true
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100499797620",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100499797620/",
+    "name": "カスタリア大塚II",
+    "thumbnailPath": "thumbnails/bc_100499797620.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_10o.jpg"
+    ],
+    "address": "東京都豊島区東池袋２",
+    "station": [
+      {
+        "line": "ＪＲ山手線",
+        "name": "大塚駅",
+        "walkMin": 5
+      },
+      {
+        "line": "東京メトロ丸ノ内線",
+        "name": "新大塚駅",
+        "walkMin": 9
+      },
+      {
+        "line": "都電荒川線",
+        "name": "大塚駅前駅",
+        "walkMin": 5
+      }
+    ],
+    "layout": {
+      "plan": "1K",
+      "areaSqm": 36.96
+    },
+    "building": {
+      "builtYear": 2004,
+      "structure": "鉄骨鉄筋",
+      "floor": 4,
+      "totalFloors": 13,
+      "facing": "南",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 185800,
+      "rent": 147000,
+      "maintenance": 8000,
+      "parking": 30800
+    },
+    "initial": {
+      "total": 294000,
+      "deposit": 147000,
+      "keyMoney": 147000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 369,
+      "bikeParking": true,
+      "internet": "光ファイバー、CATV、ネット使用料不要",
+      "garbageOnSite": null
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速5号池袋線 東池袋出入口",
+        "driveMin": 5
+      },
+      "surroundings": [
+        "アトレヴィ大塚（ショッピングセンター）まで342m",
+        "まいばすけっと向原駅北店（スーパー）まで198m",
+        "ファミリーマート 大塚空蝉橋店（コンビニ）まで95m",
+        "ドラッグストアスマイル 大塚北口店（ドラッグストア）まで371m",
+        "ゲオ大塚駅南口店（レンタルビデオ）まで561m",
+        "キッチンオリジン 北大塚店（飲食店）まで251m"
+      ],
+      "hazard": {
+        "flood": "low",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.toshima.lg.jp/223/bosai/saigai/hazardmap/index.html",
+        "note": "豊島台上で浸水想定区域外"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家 2年",
+      "cornerUnit": null
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100489922874",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100489922874/",
+    "name": "ロイヤルパークス武蔵小杉",
+    "thumbnailPath": "thumbnails/bc_100489922874.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_11o.jpg"
+    ],
+    "address": "神奈川県川崎市中原区中丸子",
+    "station": [
+      {
+        "line": "JR横須賀線",
+        "name": "武蔵小杉駅",
+        "walkMin": 4
+      },
+      {
+        "line": "JR南武線",
+        "name": "向河原駅",
+        "walkMin": 10
+      },
+      {
+        "line": "東急目黒線",
+        "name": "新丸子駅",
+        "walkMin": 16
+      }
+    ],
+    "layout": {
+      "plan": "ワンルーム",
+      "areaSqm": 37.1
+    },
+    "building": {
+      "builtYear": 2009,
+      "structure": "鉄筋コンクリート",
+      "floor": 3,
+      "totalFloors": 6,
+      "facing": "南",
+      "totalUnits": 55
+    },
+    "monthly": {
+      "total": 182000,
+      "rent": 150000,
+      "maintenance": 10000,
+      "parking": 22000
+    },
+    "initial": {
+      "total": 450000,
+      "deposit": 150000,
+      "keyMoney": 300000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 400,
+      "bikeParking": true,
+      "internet": null,
+      "garbageOnSite": true
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速 横羽線 横浜北線 大師出入口",
+        "driveMin": 18
+      },
+      "surroundings": [
+        "★駅前デリド★（スーパー）まで329m",
+        "★ローソン★（コンビニ）まで10m",
+        "★東急スクエア！★（ショッピングセンター）まで764m",
+        "★中丸子まるっこ公園！★（公園）まで50m",
+        "★フードィアム！★（スーパー）まで490m",
+        "GAPストアグランツリー武蔵小杉店（ショッピングセンター）まで606m"
+      ],
+      "hazard": {
+        "flood": "high",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.kawasaki.jp/350/page/0000113789.html",
+        "note": "多摩川河川敷至近。多摩川氾濫時3-5m級浸水想定。2019年台風19号で武蔵小杉地区は浸水被害"
+      }
+    },
+    "misc": {
+      "contractType": "定期借家 2年",
+      "cornerUnit": null
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100502730033",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100502730033/",
+    "name": "グラディート汐留ロッソ",
+    "thumbnailPath": "thumbnails/bc_100502730033.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_10o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_11o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_4o.jpg"
+    ],
+    "address": "東京都港区東新橋２",
+    "station": [
+      {
+        "line": "都営大江戸線",
+        "name": "汐留駅",
+        "walkMin": 5
+      },
+      {
+        "line": "ＪＲ山手線",
+        "name": "新橋駅",
+        "walkMin": 8
+      },
+      {
+        "line": "東京メトロ銀座線",
+        "name": "銀座駅",
+        "walkMin": 13
+      }
+    ],
+    "layout": {
+      "plan": "ワンルーム",
+      "areaSqm": 37.26
+    },
+    "building": {
+      "builtYear": 2006,
+      "structure": "鉄骨",
+      "floor": 0,
+      "totalFloors": 12,
+      "facing": "西",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 217000,
+      "rent": 173000,
+      "maintenance": 0,
+      "parking": 44000
+    },
+    "initial": {
+      "total": 346000,
+      "deposit": 346000,
+      "keyMoney": 0,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": null,
+      "bikeParking": true,
+      "internet": "光ファイバー、CATV、BS・CS対応",
+      "garbageOnSite": true
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速都心環状線 汐留出入口",
+        "driveMin": 3
+      },
+      "surroundings": [
+        "まいばすけっと新橋5丁目店（スーパー）まで332m",
+        "マルエツプチ汐留シオサイト店（スーパー）まで596m",
+        "ファミリーマートヴィータイタリア店（コンビニ）まで196m",
+        "TSUTAYA新橋店（レンタルビデオ）まで717m",
+        "CoCo壱番屋港区ヴィータイタリア店（飲食店）まで97m",
+        "みずほ銀行新橋中央支店（銀行）まで792m"
+      ],
+      "hazard": {
+        "flood": "mid",
+        "landslide": "low",
+        "tsunami": "mid",
+        "sourceUrl": "https://www.city.minato.tokyo.jp/bousai/bosai/saigai/hazardmap/index.html",
+        "note": "東京湾沿岸に近接。高潮浸水想定3m級、津波浸水想定区域内"
+      }
+    },
+    "misc": {
+      "contractType": "定期借家 5年",
+      "cornerUnit": null
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100503237750",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100503237750/",
+    "name": "フラット恵潤",
+    "thumbnailPath": "thumbnails/bc_100503237750.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/750/100503237750/100503237750_11o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/750/100503237750/100503237750_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/750/100503237750/100503237750_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/750/100503237750/100503237750_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/750/100503237750/100503237750_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/750/100503237750/100503237750_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/750/100503237750/100503237750_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/750/100503237750/100503237750_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/750/100503237750/100503237750_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/750/100503237750/100503237750_9o.jpg"
+    ],
+    "address": "東京都豊島区池袋３",
+    "station": [
+      {
+        "line": "ＪＲ山手線",
+        "name": "池袋駅",
+        "walkMin": 10
+      },
+      {
+        "line": "東京メトロ有楽町線",
+        "name": "要町駅",
+        "walkMin": 14
+      },
+      {
+        "line": "東武東上線",
+        "name": "北池袋駅",
+        "walkMin": 15
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 38.08
+    },
+    "building": {
+      "builtYear": 1992,
+      "structure": "鉄筋コン",
+      "floor": 0,
+      "totalFloors": 4,
+      "facing": "南東",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 160000,
+      "rent": 122000,
+      "maintenance": 3000,
+      "parking": 35000
+    },
+    "initial": {
+      "total": 366000,
+      "deposit": 122000,
+      "keyMoney": 244000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 500,
+      "bikeParking": null,
+      "internet": "光ファイバー",
+      "garbageOnSite": true
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速5号池袋線 北池袋出入口",
+        "driveMin": 6
+      },
+      "surroundings": [
+        "駅周辺（ショッピングセンター）まで424m",
+        "アブアブ赤札堂池袋ジョイシー店（スーパー）まで424m",
+        "肉のハナマサ池袋西口店（スーパー）まで574m",
+        "ファミリーマート豊島池袋三丁目店（コンビニ）まで358m",
+        "ファミリーマート西池袋店（コンビニ）まで304m"
+      ],
+      "hazard": {
+        "flood": "low",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.toshima.lg.jp/223/bosai/saigai/hazardmap/index.html",
+        "note": "豊島台上で浸水想定区域外"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": true
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100502416452",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100502416452/",
+    "name": "ＢＬＥＳＳ西巣鴨",
+    "thumbnailPath": "thumbnails/bc_100502416452.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_10o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_7o.jpg"
+    ],
+    "address": "東京都豊島区西巣鴨１",
+    "station": [
+      {
+        "line": "ＪＲ山手線",
+        "name": "大塚駅",
+        "walkMin": 10
+      },
+      {
+        "line": "都営三田線",
+        "name": "西巣鴨駅",
+        "walkMin": 10
+      },
+      {
+        "line": "東武東上線",
+        "name": "北池袋駅",
+        "walkMin": 14
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 39.69
+    },
+    "building": {
+      "builtYear": 2015,
+      "structure": "鉄筋コン",
+      "floor": 6,
+      "totalFloors": 9,
+      "facing": "西",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 176100,
+      "rent": 143000,
+      "maintenance": 10000,
+      "parking": 23100
+    },
+    "initial": {
+      "total": 357500,
+      "deposit": 143000,
+      "keyMoney": 214500,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 158,
+      "bikeParking": true,
+      "internet": "ネット専用回線、ネット使用料不要",
+      "garbageOnSite": true
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速 中央環状線 西巣鴨出入口",
+        "driveMin": 4
+      },
+      "surroundings": [
+        "業務スーパー上池袋店（スーパー）まで548m",
+        "セブンイレブン 豊島巣鴨新田店（コンビニ）まで146m",
+        "ローソンストア100 LS大塚北口店（コンビニ）まで172m",
+        "東京都立文京高校（高校・高専）まで396m",
+        "豊島区立西巣鴨幼稚園（幼稚園・保育園）まで354m",
+        "西巣鴨公園（公園）まで11m"
+      ],
+      "hazard": {
+        "flood": "low",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.toshima.lg.jp/223/bosai/saigai/hazardmap/index.html",
+        "note": "豊島台上で浸水想定区域外。一部内水氾濫の局地注意"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": null
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100504662659",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100504662659/",
+    "name": "グラベルハイツ南大塚",
+    "thumbnailPath": "thumbnails/bc_100504662659.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/659/100504662659/100504662659_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/659/100504662659/100504662659_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/659/100504662659/100504662659_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/659/100504662659/100504662659_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/659/100504662659/100504662659_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/659/100504662659/100504662659_s1o.jpg"
+    ],
+    "address": "東京都豊島区南大塚１",
+    "station": [
+      {
+        "line": "ＪＲ山手線",
+        "name": "大塚駅",
+        "walkMin": 11
+      },
+      {
+        "line": "都営三田線",
+        "name": "巣鴨駅",
+        "walkMin": 11
+      },
+      {
+        "line": "都営三田線",
+        "name": "千石駅",
+        "walkMin": 17
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 40
+    },
+    "building": {
+      "builtYear": 1984,
+      "structure": "鉄骨",
+      "floor": 2,
+      "totalFloors": 4,
+      "facing": "南",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 143000,
+      "rent": 105000,
+      "maintenance": 3000,
+      "parking": 35000
+    },
+    "initial": {
+      "total": 210000,
+      "deposit": 105000,
+      "keyMoney": 105000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 200,
+      "bikeParking": true,
+      "internet": "光ファイバー",
+      "garbageOnSite": null
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速 中央環状線 西巣鴨出入口",
+        "driveMin": 6
+      },
+      "surroundings": [
+        "セブンイレブン 豊島南大塚1丁目南店（コンビニ）まで400m",
+        "一幸（飲食店）まで420m",
+        "ひかわ調剤薬局（ドラッグストア）まで511m",
+        "Lulu Lapin Cafe(ルル ラパン カフェ)（飲食店）まで554m",
+        "すし処秀（飲食店）まで677m",
+        "マクドナルド（飲食店）まで4380m"
+      ],
+      "hazard": {
+        "flood": "low",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.toshima.lg.jp/223/bosai/saigai/hazardmap/index.html",
+        "note": "豊島台上で浸水想定区域外"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": true
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100504015734",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100504015734/",
+    "name": "Ｄ　Ｐａｉｎａ　今井南町",
+    "thumbnailPath": "thumbnails/bc_100504015734.jpg",
+    "photoUrls": [],
+    "address": "神奈川県川崎市中原区今井南町",
+    "station": [
+      {
+        "line": "東急東横線",
+        "name": "武蔵小杉駅",
+        "walkMin": 8
+      },
+      {
+        "line": "東急東横線",
+        "name": "元住吉駅",
+        "walkMin": 8
+      },
+      {
+        "line": "ＪＲ南武線",
+        "name": "向河原駅",
+        "walkMin": 16
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 41.2
+    },
+    "building": {
+      "builtYear": 2026,
+      "structure": "軽量鉄骨",
+      "floor": 1,
+      "totalFloors": 3,
+      "facing": "南",
+      "totalUnits": 9
+    },
+    "monthly": {
+      "total": 179000,
+      "rent": 173000,
+      "maintenance": 6000,
+      "parking": 0
+    },
+    "initial": {
+      "total": 0,
+      "deposit": 0,
+      "keyMoney": 0,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": null,
+      "bikeParking": true,
+      "internet": "ネット使用料不要",
+      "garbageOnSite": null
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速 横羽線 大師出入口",
+        "driveMin": 20
+      },
+      "surroundings": [
+        "ジョナサン武蔵小杉店（飲食店）まで464m",
+        "（株）神奈川銀行／中原支店（銀行）まで473m",
+        "コートダジュール（その他）まで509m",
+        "七輪焼肉安安（その他）まで525m",
+        "やよい軒（飲食店）まで520m",
+        "（株）みずほ銀行／武蔵小杉支店（銀行）まで524m"
+      ],
+      "hazard": {
+        "flood": "mid",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.kawasaki.jp/350/page/0000113789.html",
+        "note": "多摩川支流域・矢上川流域に近い低地。多摩川氾濫時0.5-3m想定"
+      }
+    },
+    "misc": {
+      "contractType": "仲介",
+      "cornerUnit": null
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100480349207",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100480349207/",
+    "name": "GENOVIA上野2skygarden",
+    "thumbnailPath": "thumbnails/bc_100480349207.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/207/100480349207/100480349207_6o.jpg"
+    ],
+    "address": "東京都台東区北上野1",
+    "station": [
+      {
+        "line": "JR山手線",
+        "name": "上野",
+        "walkMin": 5
+      },
+      {
+        "line": "JR京浜東北線",
+        "name": "上野",
+        "walkMin": 5
+      },
+      {
+        "line": "JR常磐線",
+        "name": "上野",
+        "walkMin": 5
+      },
+      {
+        "line": "東京メトロ銀座線",
+        "name": "上野",
+        "walkMin": 5
+      },
+      {
+        "line": "東京メトロ日比谷線",
+        "name": "上野",
+        "walkMin": 5
+      },
+      {
+        "line": "JR山手線",
+        "name": "鶯谷",
+        "walkMin": 8
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 40.13
+    },
+    "building": {
+      "builtYear": 2019,
+      "structure": "RC",
+      "floor": 0,
+      "totalFloors": 11,
+      "facing": "北",
+      "totalUnits": 29
+    },
+    "monthly": {
+      "total": 165000,
+      "rent": 165000,
+      "maintenance": 0,
+      "parking": 0
+    },
+    "initial": {
+      "total": 0,
+      "deposit": 0,
+      "keyMoney": 0,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": null,
+      "bikeParking": null,
+      "internet": null,
+      "garbageOnSite": null
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速 上野出入口",
+        "driveMin": 4
+      },
+      "surroundings": [
+        "スーパー",
+        "コンビニ",
+        "薬局（薬店）",
+        "幼稚園・保育園",
+        "小学校",
+        "中学校"
+      ],
+      "hazard": {
+        "flood": "mid",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.taito.lg.jp/kurashi/anzen/saigai/hazardmap/index.html",
+        "note": "下町低地。荒川氾濫時0.5-3m想定"
+      }
+    },
+    "misc": {
+      "contractType": "unknown",
+      "cornerUnit": null
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100456706444",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100456706444/",
+    "name": "サンセゾンアイ",
+    "thumbnailPath": "thumbnails/bc_100456706444.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/709/100496046709/100496046709_11o.jpg"
+    ],
+    "address": "東京都北区志茂４",
+    "station": [
+      {
+        "line": "東京メトロ南北線",
+        "name": "志茂駅",
+        "walkMin": 3
+      },
+      {
+        "line": "ＪＲ京浜東北線",
+        "name": "赤羽駅",
+        "walkMin": 15
+      },
+      {
+        "line": "埼玉高速鉄道",
+        "name": "赤羽岩淵駅",
+        "walkMin": 16
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 42.38
+    },
+    "building": {
+      "builtYear": 1998,
+      "structure": "鉄筋コン",
+      "floor": 0,
+      "totalFloors": 5,
+      "facing": "南西",
+      "totalUnits": 73
+    },
+    "monthly": {
+      "total": 157000,
+      "rent": 157000,
+      "maintenance": 0,
+      "parking": 0
+    },
+    "initial": {
+      "total": 0,
+      "deposit": 0,
+      "keyMoney": 0,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": null,
+      "bikeParking": true,
+      "internet": "光ファイバー",
+      "garbageOnSite": true
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速 中央環状線 板橋本町出入口",
+        "driveMin": 11
+      },
+      "surroundings": [
+        "まいばすけっと 志茂４丁目店（スーパー）まで119m",
+        "キッチンオリジン志茂店（飲食店）まで313m",
+        "ローソン 志茂三丁目店（コンビニ）まで342m",
+        "北区立赤羽岩淵中学校（中学校）まで715m",
+        "北区立なでしこ小学校（小学校）まで797m",
+        "サンドラッグ 赤羽店（ドラッグストア）まで829m"
+      ],
+      "hazard": {
+        "flood": "high",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.kita.tokyo.jp/bosai/bosai/saigai/hazardmap.html",
+        "note": "荒川・新河岸川低地。荒川氾濫時の浸水想定3-5m級"
+      }
+    },
+    "misc": {
+      "contractType": "unknown",
+      "cornerUnit": null
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100480997804",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100480997804/",
+    "name": "スワンレイク目白",
+    "thumbnailPath": "thumbnails/bc_100480997804.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_8o.jpg"
+    ],
+    "address": "東京都新宿区下落合４",
+    "station": [
+      {
+        "line": "西武池袋線",
+        "name": "椎名町駅",
+        "walkMin": 8
+      },
+      {
+        "line": "ＪＲ山手線",
+        "name": "目白駅",
+        "walkMin": 14
+      },
+      {
+        "line": "西武新宿線",
+        "name": "下落合駅",
+        "walkMin": 11
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 43.25
+    },
+    "building": {
+      "builtYear": 2019,
+      "structure": "鉄筋コン",
+      "floor": 2,
+      "totalFloors": 5,
+      "facing": "unknown",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 191000,
+      "rent": 158000,
+      "maintenance": 8000,
+      "parking": 25000
+    },
+    "initial": {
+      "total": 316000,
+      "deposit": 158000,
+      "keyMoney": 158000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 46,
+      "bikeParking": null,
+      "internet": "光ファイバー",
+      "garbageOnSite": null
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速5号池袋線 西池袋出入口",
+        "driveMin": 8
+      },
+      "surroundings": [
+        "オーケー 下落合店（スーパー）まで156m",
+        "セブン-イレブン 目白５丁目目白通り店（コンビニ）まで88m",
+        "ドラッグストアスマイル 下落合店（ドラッグストア）まで208m",
+        "オリンピック 中落合店（ホームセンター）まで627m",
+        "ロッテリア 椎名町店（飲食店）まで711m",
+        "上智大学 目白聖母キャンパス（大学・短大）まで337m"
+      ],
+      "hazard": {
+        "flood": "low",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.shinjuku.lg.jp/bosai/bosai01_004.html",
+        "note": "目白台西斜面。神田川低地から離れ概ね浸水想定区域外。崖地周辺は局地注意"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": null
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100501075316",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100501075316/",
+    "name": "Ｂｉｅｎ　Ｋａｇｕｒａｚａｋａ",
+    "thumbnailPath": "thumbnails/bc_100501075316.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_9o.jpg"
+    ],
+    "address": "東京都新宿区矢来町",
+    "station": [
+      {
+        "line": "東京メトロ東西線",
+        "name": "神楽坂駅",
+        "walkMin": 4
+      },
+      {
+        "line": "東京メトロ有楽町線",
+        "name": "江戸川橋駅",
+        "walkMin": 9
+      },
+      {
+        "line": "都営大江戸線",
+        "name": "牛込神楽坂駅",
+        "walkMin": 14
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 43.83
+    },
+    "building": {
+      "builtYear": 2012,
+      "structure": "木造",
+      "floor": 1,
+      "totalFloors": 2,
+      "facing": "南",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 189000,
+      "rent": 155000,
+      "maintenance": 2000,
+      "parking": 32000
+    },
+    "initial": {
+      "total": 310000,
+      "deposit": 155000,
+      "keyMoney": 155000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 400,
+      "bikeParking": null,
+      "internet": "CATVインターネット対応",
+      "garbageOnSite": null
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速5号池袋線 早稲田出入口",
+        "driveMin": 6
+      },
+      "surroundings": [
+        "業務スーパー新宿榎店（スーパー）まで312m",
+        "まいばすけっと神楽坂駅西店（スーパー）まで200m",
+        "ファミリーマート新宿天神町店（コンビニ）まで163m",
+        "セブンイレブン新宿神楽坂駅西店（コンビニ）まで264m",
+        "ココカラファイン神楽坂中里町店（ドラッグストア）まで306m",
+        "どらっぐぱぱす江戸川橋店（ドラッグストア）まで616m"
+      ],
+      "hazard": {
+        "flood": "low",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.shinjuku.lg.jp/bosai/bosai01_004.html",
+        "note": "牛込台地上で浸水想定区域外。神田川低地（江戸川橋方面）からは外れる"
+      }
+    },
+    "misc": {
+      "contractType": "仲介",
+      "cornerUnit": true
+    },
+    "fetchedAt": "2026-05-10"
+  },
+  {
+    "id": "bc_100504737902",
+    "suumoUrl": "https://suumo.jp/chintai/bc_100504737902/",
+    "name": "光建ハイム中丸町",
+    "thumbnailPath": "thumbnails/bc_100504737902.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_9o.jpg"
+    ],
+    "address": "東京都板橋区中丸町",
+    "station": [
+      {
+        "line": "東京メトロ副都心線",
+        "name": "要町駅",
+        "walkMin": 11
+      },
+      {
+        "line": "ＪＲ山手線",
+        "name": "池袋駅",
+        "walkMin": 13
+      },
+      {
+        "line": "東武東上線",
+        "name": "大山駅",
+        "walkMin": 16
+      }
+    ],
+    "layout": {
+      "plan": "2LDK",
+      "areaSqm": 50.53
+    },
+    "building": {
+      "builtYear": 1982,
+      "structure": "鉄筋コン",
+      "floor": 2,
+      "totalFloors": 4,
+      "facing": "北西",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 205300,
+      "rent": 175000,
+      "maintenance": 5000,
+      "parking": 25300
+    },
+    "initial": {
+      "total": 175000,
+      "deposit": 0,
+      "keyMoney": 175000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 129,
+      "bikeParking": null,
+      "internet": "光ファイバー",
+      "garbageOnSite": null
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速5号池袋線 熊野町出入口",
+        "driveMin": 5
+      },
+      "surroundings": [
+        "マルエツ池袋店（スーパー）まで94m",
+        "ミニストップ 板橋中丸店（コンビニ）まで200m",
+        "どらっぐぱぱす板橋南町店（ドラッグストア）まで279m",
+        "ゲオボート店（レンタルビデオ）まで538m",
+        "ほっともっと池袋北店（飲食店）まで870m",
+        "東京交通短期大学（大学・短大）まで794m"
+      ],
+      "hazard": {
+        "flood": "low",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.itabashi.tokyo.jp/bosai/saigai/hazardmap/index.html",
+        "note": "板橋台地上で浸水想定区域外"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": true
+    },
+    "fetchedAt": "2026-05-10"
+  }
+]

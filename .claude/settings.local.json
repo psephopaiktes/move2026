@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npx tsc *)",
+      "Bash(npm run *)",
+      "WebFetch(domain:suumo.jp)",
+      "Bash(curl -sL -A \"Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\)\" \"https://suumo.jp/chintai/bc_100505077565/\")",
+      "Bash(curl -sL -A \"Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\)\" -w \"\\\\n[HTTP %{http_code}, %{size_download}B]\\\\n\" \"https://suumo.jp/chintai/bc_100505077565/\" -o /tmp/suumo_test.html)",
+      "Read(//tmp/**)",
+      "Bash(chmod +x /Users/a-hirata/Desktop/move2026/scripts/fetch-thumbnails.sh)",
+      "Bash(bash /Users/a-hirata/Desktop/move2026/scripts/fetch-thumbnails.sh)",
+      "Bash(node /Users/a-hirata/Desktop/move2026/scripts/merge-photos.mjs)",
+      "Bash(node -e ' *)"
+    ]
+  }
+}

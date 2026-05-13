@@ -1,27 +1,12 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npm install *)",
-      "Bash(npx tsc *)",
-      "Bash(npm run *)",
-      "WebFetch(domain:suumo.jp)",
-      "Bash(curl -sL -A \"Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\)\" \"https://suumo.jp/chintai/bc_100505077565/\")",
-      "Bash(curl -sL -A \"Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\)\" -w \"\\\\n[HTTP %{http_code}, %{size_download}B]\\\\n\" \"https://suumo.jp/chintai/bc_100505077565/\" -o /tmp/suumo_test.html)",
+      "Bash(*)",
       "Read(//tmp/**)",
-      "Bash(chmod +x /Users/a-hirata/Desktop/move2026/scripts/fetch-thumbnails.sh)",
-      "Bash(bash /Users/a-hirata/Desktop/move2026/scripts/fetch-thumbnails.sh)",
-      "Bash(node /Users/a-hirata/Desktop/move2026/scripts/merge-photos.mjs)",
-      "Bash(node -e ' *)",
-      "Bash(curl -sL \"https://psephopaiktes.github.io/move2026/\" -w \"\\\\n[HTTP %{http_code}]\\\\n\")",
-      "Bash(curl -sL -A \"Mozilla/5.0\" \"https://suumo.jp/chintai/bc_100502873998/\" -o /tmp/check_873998.html -w \"final_url=%{url_effective}\\\\nhttp=%{http_code}\\\\n\")",
-      "Bash(grep -oE '物件名[^<]{0,80}' /tmp/check_873998.html)",
-      "Bash(grep -oE '所在地[^<]{0,50}' /tmp/check_873998.html)",
-      "Bash(node /Users/a-hirata/Desktop/move2026/scripts/verify-names.mjs)",
-      "Bash(node /Users/a-hirata/Desktop/move2026/scripts/swap-pairs.mjs)",
-      "Bash(curl -sL -A Mozilla/5.0 'https://suumo.jp/chintai/jnc_000106461153/?bc=100497629925' -o /tmp/newprop.html -w 'final_url=%{url_effective}\\\\nhttp=%{http_code} size=%{size_download}\\\\n')",
-      "Bash(node -e \"console.log\\(require\\('/Users/a-hirata/Desktop/move2026/src/data/properties.json'\\).length\\)\")",
-      "Bash(node /Users/a-hirata/Desktop/move2026/scripts/check-listings.mjs)",
-      "Bash(node /Users/a-hirata/Desktop/move2026/scripts/sync-listings.mjs --dry-run)",
+      "WebFetch(domain:suumo.jp)",
+      "WebFetch(domain:disaportal.gsi.go.jp)",
+      "WebFetch(domain:*.lg.jp)",
+      "WebFetch(domain:*.go.jp)",
       "WebSearch"
     ]
   }

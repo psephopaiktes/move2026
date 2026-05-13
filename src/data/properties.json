@@ -6,6 +6,7 @@
     "thumbnailPath": "thumbnails/bc_100505077565.jpg",
     "photoUrls": [
       "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_2o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_4o.jpg",
@@ -14,7 +15,8 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_5o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_8o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_9o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_s6o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_s6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/565/100505077565/100505077565_7o.jpg"
     ],
     "address": "東京都北区岩淵町",
     "station": [
@@ -98,6 +100,7 @@
     "thumbnailPath": "thumbnails/bc_100505035120.jpg",
     "photoUrls": [
       "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_ro.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_2o.jpg",
@@ -106,7 +109,8 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_3o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_8o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_6o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_10o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_10o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/120/100505035120/100505035120_11o.jpg"
     ],
     "address": "東京都北区西ケ原４",
     "station": [
@@ -151,7 +155,7 @@
       "guarantee": 0
     },
     "facilities": {
-      "parkingDistanceM": null,
+      "parkingDistanceM": 0,
       "bikeParking": true,
       "internet": "光ファイバー、CATV、CATVインターネット",
       "garbageOnSite": true
@@ -189,6 +193,7 @@
     "name": "小田急線 下北沢駅 地下2地上3階建 築19年",
     "thumbnailPath": "thumbnails/bc_100495112985.jpg",
     "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_2o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_ro.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_3o.jpg",
@@ -198,7 +203,8 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_6o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_8o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_5o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/985/100495112985/100495112985_9o.jpg"
     ],
     "address": "東京都世田谷区代田２",
     "station": [
@@ -243,7 +249,7 @@
       "guarantee": 0
     },
     "facilities": {
-      "parkingDistanceM": null,
+      "parkingDistanceM": 0,
       "bikeParking": true,
       "internet": "光ファイバー",
       "garbageOnSite": true
@@ -282,6 +288,7 @@
     "thumbnailPath": "thumbnails/bc_100502621523.jpg",
     "photoUrls": [
       "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_ro.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_2o.jpg",
@@ -290,7 +297,8 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_5o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_3o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_9o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_6o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/523/100502621523/100502621523_10o.jpg"
     ],
     "address": "東京都北区田端新町１",
     "station": [
@@ -374,6 +382,7 @@
     "thumbnailPath": "thumbnails/bc_100502258740.jpg",
     "photoUrls": [
       "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_2o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_4o.jpg",
@@ -382,7 +391,8 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_3o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_9o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_8o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_5o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/740/100502258740/100502258740_10o.jpg"
     ],
     "address": "神奈川県川崎市川崎区本町１",
     "station": [
@@ -465,6 +475,7 @@
     "name": "デュフレ自由が丘",
     "thumbnailPath": "thumbnails/bc_100491002107.jpg",
     "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_2o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_ro.jpg",
@@ -474,7 +485,8 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_5o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_6o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_8o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_11o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_11o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/107/100491002107/100491002107_10o.jpg"
     ],
     "address": "東京都世田谷区奥沢５",
     "station": [
@@ -556,7 +568,20 @@
     "suumoUrl": "https://suumo.jp/chintai/bc_100502873998/",
     "name": "フレンシア浅草橋",
     "thumbnailPath": "thumbnails/bc_100502873998.jpg",
-    "photoUrls": [],
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_co.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/998/100502873998/100502873998_10o.jpg"
+    ],
     "address": "東京都台東区柳橋２",
     "station": [
       {
@@ -639,6 +664,7 @@
     "thumbnailPath": "thumbnails/bc_100502914439.jpg",
     "photoUrls": [
       "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_2o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_5o.jpg",
@@ -647,7 +673,8 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_9o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_6o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_10o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_7o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/439/100502914439/100502914439_8o.jpg"
     ],
     "address": "東京都文京区白山１",
     "station": [
@@ -730,6 +757,7 @@
     "name": "コンフォリア北参道",
     "thumbnailPath": "thumbnails/bc_100499800371.jpg",
     "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_2o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_ro.jpg",
@@ -739,7 +767,8 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_9o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_11o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_7o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_10o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_10o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/371/100499800371/100499800371_8o.jpg"
     ],
     "address": "東京都渋谷区千駄ヶ谷４",
     "station": [
@@ -822,6 +851,7 @@
     "name": "クレストコート大塚",
     "thumbnailPath": "thumbnails/bc_100495823003.jpg",
     "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_2o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_ro.jpg",
@@ -831,7 +861,8 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_3o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_8o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_7o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_11o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_11o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/003/100495823003/100495823003_10o.jpg"
     ],
     "address": "東京都豊島区南大塚１",
     "station": [
@@ -914,6 +945,7 @@
     "name": "ル・リオン池袋コンフォート",
     "thumbnailPath": "thumbnails/bc_100503420818.jpg",
     "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_ro.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_2o.jpg",
@@ -923,7 +955,8 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_4o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_8o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_10o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_7o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/818/100503420818/100503420818_9o.jpg"
     ],
     "address": "東京都豊島区上池袋３",
     "station": [
@@ -1006,6 +1039,7 @@
     "name": "カスタリア大塚II",
     "thumbnailPath": "thumbnails/bc_100499797620.jpg",
     "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_2o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_ro.jpg",
@@ -1015,7 +1049,8 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_3o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_7o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_8o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_10o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_10o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/620/100499797620/100499797620_11o.jpg"
     ],
     "address": "東京都豊島区東池袋２",
     "station": [
@@ -1098,6 +1133,7 @@
     "name": "ロイヤルパークス武蔵小杉",
     "thumbnailPath": "thumbnails/bc_100489922874.jpg",
     "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_ro.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_2o.jpg",
@@ -1107,7 +1143,8 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_5o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_4o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_9o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_11o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_11o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/874/100489922874/100489922874_10o.jpg"
     ],
     "address": "神奈川県川崎市中原区中丸子",
     "station": [
@@ -1188,8 +1225,10 @@
     "id": "bc_100502730033",
     "suumoUrl": "https://suumo.jp/chintai/bc_100502730033/",
     "name": "グラディート汐留ロッソ",
+    "hidden": true,
     "thumbnailPath": "thumbnails/bc_100502730033.jpg",
     "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_ro.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_5o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_9o.jpg",
@@ -1199,7 +1238,8 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_3o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_11o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_6o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_4o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/033/100502730033/100502730033_1o.jpg"
     ],
     "address": "東京都港区東新橋２",
     "station": [
@@ -1282,6 +1322,7 @@
     "name": "ＢＬＥＳＳ西巣鴨",
     "thumbnailPath": "thumbnails/bc_100502416452.jpg",
     "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_ro.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_2o.jpg",
@@ -1291,7 +1332,8 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_4o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_8o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_10o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_7o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/452/100502416452/100502416452_9o.jpg"
     ],
     "address": "東京都豊島区西巣鴨１",
     "station": [
@@ -1375,10 +1417,15 @@
     "thumbnailPath": "thumbnails/bc_100504662659.jpg",
     "photoUrls": [
       "https://img01.suumo.com/front/gazo/fr/bukken/659/100504662659/100504662659_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/659/100504662659/100504662659_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/659/100504662659/100504662659_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/659/100504662659/100504662659_2o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/659/100504662659/100504662659_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/659/100504662659/100504662659_6o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/659/100504662659/100504662659_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/659/100504662659/100504662659_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/659/100504662659/100504662659_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/659/100504662659/100504662659_8o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/659/100504662659/100504662659_s1o.jpg"
     ],
     "address": "東京都豊島区南大塚１",
@@ -1462,6 +1509,7 @@
     "name": "スワンレイク目白",
     "thumbnailPath": "thumbnails/bc_100480997804.jpg",
     "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_2o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_ro.jpg",
@@ -1471,7 +1519,8 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_3o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_9o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_7o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_8o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/804/100480997804/100480997804_10o.jpg"
     ],
     "address": "東京都新宿区下落合４",
     "station": [
@@ -1554,6 +1603,7 @@
     "name": "Ｂｉｅｎ　Ｋａｇｕｒａｚａｋａ",
     "thumbnailPath": "thumbnails/bc_100501075316.jpg",
     "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_ro.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_5o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_2o.jpg",
@@ -1563,7 +1613,8 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_4o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_7o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_8o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_9o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/316/100501075316/100501075316_11o.jpg"
     ],
     "address": "東京都新宿区矢来町",
     "station": [
@@ -1646,6 +1697,7 @@
     "name": "光建ハイム中丸町",
     "thumbnailPath": "thumbnails/bc_100504737902.jpg",
     "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_2o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_ro.jpg",
@@ -1655,7 +1707,8 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_3o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_8o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_7o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_9o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/902/100504737902/100504737902_11o.jpg"
     ],
     "address": "東京都板橋区中丸町",
     "station": [
@@ -1738,6 +1791,7 @@
     "name": "プレディアコート板橋",
     "thumbnailPath": "thumbnails/bc_100497629925.jpg",
     "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/925/100497629925/100497629925_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/925/100497629925/100497629925_ro.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/925/100497629925/100497629925_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/925/100497629925/100497629925_2o.jpg",
@@ -1747,15 +1801,31 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/925/100497629925/100497629925_7o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/925/100497629925/100497629925_6o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/925/100497629925/100497629925_5o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/925/100497629925/100497629925_10o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/925/100497629925/100497629925_10o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/925/100497629925/100497629925_11o.jpg"
     ],
     "address": "東京都板橋区板橋２",
     "station": [
-      { "line": "都営三田線", "name": "新板橋駅", "walkMin": 8 },
-      { "line": "東武東上線", "name": "下板橋駅", "walkMin": 3 },
-      { "line": "ＪＲ埼京線", "name": "板橋駅", "walkMin": 7 }
+      {
+        "line": "都営三田線",
+        "name": "新板橋駅",
+        "walkMin": 8
+      },
+      {
+        "line": "東武東上線",
+        "name": "下板橋駅",
+        "walkMin": 3
+      },
+      {
+        "line": "ＪＲ埼京線",
+        "name": "板橋駅",
+        "walkMin": 7
+      }
     ],
-    "layout": { "plan": "2K", "areaSqm": 35.2 },
+    "layout": {
+      "plan": "2K",
+      "areaSqm": 35.2
+    },
     "building": {
       "builtYear": 2025,
       "structure": "鉄筋コン",
@@ -1808,6 +1878,7 @@
     "name": "小林邸",
     "thumbnailPath": "thumbnails/bc_100474359188.jpg",
     "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/188/100474359188/100474359188_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/188/100474359188/100474359188_ro.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/188/100474359188/100474359188_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/188/100474359188/100474359188_2o.jpg",
@@ -1817,15 +1888,31 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/188/100474359188/100474359188_6o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/188/100474359188/100474359188_7o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/188/100474359188/100474359188_8o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/188/100474359188/100474359188_9o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/188/100474359188/100474359188_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/188/100474359188/100474359188_10o.jpg"
     ],
     "address": "東京都豊島区上池袋２",
     "station": [
-      { "line": "ＪＲ山手線", "name": "池袋駅", "walkMin": 15 },
-      { "line": "東武東上線", "name": "北池袋駅", "walkMin": 9 },
-      { "line": "東武東上線", "name": "下板橋駅", "walkMin": 19 }
+      {
+        "line": "ＪＲ山手線",
+        "name": "池袋駅",
+        "walkMin": 15
+      },
+      {
+        "line": "東武東上線",
+        "name": "北池袋駅",
+        "walkMin": 9
+      },
+      {
+        "line": "東武東上線",
+        "name": "下板橋駅",
+        "walkMin": 19
+      }
     ],
-    "layout": { "plan": "3DK", "areaSqm": 55.18 },
+    "layout": {
+      "plan": "3DK",
+      "areaSqm": 55.18
+    },
     "building": {
       "builtYear": 1966,
       "structure": "木造",
@@ -1878,6 +1965,7 @@
     "name": "エクセシオーネ目黒",
     "thumbnailPath": "thumbnails/bc_100505842590.jpg",
     "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/590/100505842590/100505842590_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/590/100505842590/100505842590_ro.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/590/100505842590/100505842590_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/590/100505842590/100505842590_3o.jpg",
@@ -1887,15 +1975,31 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/590/100505842590/100505842590_4o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/590/100505842590/100505842590_6o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/590/100505842590/100505842590_7o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/590/100505842590/100505842590_9o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/590/100505842590/100505842590_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/590/100505842590/100505842590_10o.jpg"
     ],
     "address": "東京都品川区上大崎３",
     "station": [
-      { "line": "ＪＲ山手線", "name": "目黒駅", "walkMin": 9 },
-      { "line": "都営浅草線", "name": "五反田駅", "walkMin": 10 },
-      { "line": "東急目黒線", "name": "目黒駅", "walkMin": 11 }
+      {
+        "line": "ＪＲ山手線",
+        "name": "目黒駅",
+        "walkMin": 9
+      },
+      {
+        "line": "都営浅草線",
+        "name": "五反田駅",
+        "walkMin": 10
+      },
+      {
+        "line": "東急目黒線",
+        "name": "目黒駅",
+        "walkMin": 11
+      }
     ],
-    "layout": { "plan": "ワンルーム", "areaSqm": 36.13 },
+    "layout": {
+      "plan": "ワンルーム",
+      "areaSqm": 36.13
+    },
     "building": {
       "builtYear": 2003,
       "structure": "鉄筋コン",
@@ -1948,6 +2052,7 @@
     "name": "グランフォース上野入谷",
     "thumbnailPath": "thumbnails/bc_100505775330.jpg",
     "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/330/100505775330/100505775330_co.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/330/100505775330/100505775330_ro.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/330/100505775330/100505775330_1o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/330/100505775330/100505775330_2o.jpg",
@@ -1957,15 +2062,31 @@
       "https://img01.suumo.com/front/gazo/fr/bukken/330/100505775330/100505775330_3o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/330/100505775330/100505775330_8o.jpg",
       "https://img01.suumo.com/front/gazo/fr/bukken/330/100505775330/100505775330_7o.jpg",
-      "https://img01.suumo.com/front/gazo/fr/bukken/330/100505775330/100505775330_9o.jpg"
+      "https://img01.suumo.com/front/gazo/fr/bukken/330/100505775330/100505775330_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/330/100505775330/100505775330_10o.jpg"
     ],
     "address": "東京都台東区入谷１",
     "station": [
-      { "line": "東京メトロ日比谷線", "name": "入谷駅", "walkMin": 1 },
-      { "line": "ＪＲ山手線", "name": "鶯谷駅", "walkMin": 8 },
-      { "line": "ＪＲ山手線", "name": "上野駅", "walkMin": 15 }
+      {
+        "line": "東京メトロ日比谷線",
+        "name": "入谷駅",
+        "walkMin": 1
+      },
+      {
+        "line": "ＪＲ山手線",
+        "name": "鶯谷駅",
+        "walkMin": 8
+      },
+      {
+        "line": "ＪＲ山手線",
+        "name": "上野駅",
+        "walkMin": 15
+      }
     ],
-    "layout": { "plan": "1LDK", "areaSqm": 41.14 },
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 41.14
+    },
     "building": {
       "builtYear": 2013,
       "structure": "鉄筋コン",
@@ -2011,5 +2132,353 @@
       "cornerUnit": true
     },
     "fetchedAt": "2026-05-13"
+  },
+  {
+    "id": "bc_100505894381",
+    "suumoUrl": "https://suumo.jp/chintai/jnc_000106034522/?bc=100505894381",
+    "name": "CHART HOUSE 自由が丘",
+    "thumbnailPath": "thumbnails/bc_100505894381.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/381/100505894381/100505894381_co.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/381/100505894381/100505894381_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/381/100505894381/100505894381_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/381/100505894381/100505894381_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/381/100505894381/100505894381_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/381/100505894381/100505894381_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/381/100505894381/100505894381_s4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/381/100505894381/100505894381_s2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/381/100505894381/100505894381_s3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/381/100505894381/100505894381_s1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/381/100505894381/100505894381_s6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/381/100505894381/100505894381_s5o.jpg"
+    ],
+    "address": "東京都世田谷区奥沢２",
+    "station": [
+      {
+        "line": "東急東横線",
+        "name": "自由が丘駅",
+        "walkMin": 8
+      },
+      {
+        "line": "東急目黒線",
+        "name": "奥沢駅",
+        "walkMin": 6
+      },
+      {
+        "line": "東急大井町線",
+        "name": "緑が丘駅",
+        "walkMin": 4
+      }
+    ],
+    "layout": {
+      "plan": "1SDK",
+      "areaSqm": 48.66
+    },
+    "building": {
+      "builtYear": 2003,
+      "structure": "鉄骨",
+      "floor": 1,
+      "totalFloors": 2,
+      "facing": "南",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 202000,
+      "rent": 169000,
+      "maintenance": 5000,
+      "parking": 28000
+    },
+    "initial": {
+      "total": 338000,
+      "deposit": 169000,
+      "keyMoney": 169000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 0,
+      "bikeParking": null,
+      "internet": "光ファイバー",
+      "garbageOnSite": null
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速2号目黒線 戸越出入口",
+        "driveMin": 15
+      },
+      "surroundings": [],
+      "hazard": {
+        "flood": "low",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.setagaya.lg.jp/mokuji/kurashi/002/004/d00005167.html",
+        "note": "武蔵野台地上。呑川流域から離れた高台で浸水想定区域外"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": null
+    },
+    "fetchedAt": "2026-05-14"
+  },
+  {
+    "id": "bc_100506026683",
+    "suumoUrl": "https://suumo.jp/chintai/jnc_000107059928/?bc=100506026683",
+    "name": "東京メトロ南北線 駒込駅 12階建 築10年",
+    "thumbnailPath": "thumbnails/bc_100506026683.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/683/100506026683/100506026683_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/683/100506026683/100506026683_co.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/683/100506026683/100506026683_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/683/100506026683/100506026683_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/683/100506026683/100506026683_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/683/100506026683/100506026683_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/683/100506026683/100506026683_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/683/100506026683/100506026683_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/683/100506026683/100506026683_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/683/100506026683/100506026683_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/683/100506026683/100506026683_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/683/100506026683/100506026683_10o.jpg"
+    ],
+    "address": "東京都北区西ケ原１",
+    "station": [
+      {
+        "line": "東京メトロ南北線",
+        "name": "駒込駅",
+        "walkMin": 6
+      },
+      {
+        "line": "都営三田線",
+        "name": "巣鴨駅",
+        "walkMin": 14
+      },
+      {
+        "line": "ＪＲ山手線",
+        "name": "駒込駅",
+        "walkMin": 6
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 37.15
+    },
+    "building": {
+      "builtYear": 2016,
+      "structure": "鉄筋コン",
+      "floor": 4,
+      "totalFloors": 12,
+      "facing": "unknown",
+      "totalUnits": null
+    },
+    "monthly": {
+      "total": 207000,
+      "rent": 164000,
+      "maintenance": 10000,
+      "parking": 33000
+    },
+    "initial": {
+      "total": 164000,
+      "deposit": 0,
+      "keyMoney": 164000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 250,
+      "bikeParking": true,
+      "internet": "光ファイバー、ネット使用料不要",
+      "garbageOnSite": true
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速 中央環状線 西巣鴨出入口",
+        "driveMin": 7
+      },
+      "surroundings": [],
+      "hazard": {
+        "flood": "low",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.kita.tokyo.jp/bosai/bosai/saigai/hazardmap.html",
+        "note": "本郷台地上、河川から離れた高台で浸水想定区域外"
+      }
+    },
+    "misc": {
+      "contractType": "仲介",
+      "cornerUnit": true
+    },
+    "fetchedAt": "2026-05-14"
+  },
+  {
+    "id": "bc_100505939365",
+    "suumoUrl": "https://suumo.jp/chintai/jnc_000106678043/?bc=100505939365",
+    "name": "クリスタルパレス蒲西",
+    "thumbnailPath": "thumbnails/bc_100505939365.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/365/100505939365/100505939365_co.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/365/100505939365/100505939365_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/365/100505939365/100505939365_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/365/100505939365/100505939365_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/365/100505939365/100505939365_10o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/365/100505939365/100505939365_3o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/365/100505939365/100505939365_4o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/365/100505939365/100505939365_11o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/365/100505939365/100505939365_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/365/100505939365/100505939365_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/365/100505939365/100505939365_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/365/100505939365/100505939365_6o.jpg"
+    ],
+    "address": "東京都大田区西蒲田６",
+    "station": [
+      {
+        "line": "ＪＲ京浜東北線",
+        "name": "蒲田駅",
+        "walkMin": 7
+      },
+      {
+        "line": "東急池上線",
+        "name": "蓮沼駅",
+        "walkMin": 4
+      },
+      {
+        "line": "京急本線",
+        "name": "京急蒲田駅",
+        "walkMin": 17
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 39.99
+    },
+    "building": {
+      "builtYear": 2021,
+      "structure": "鉄筋コン",
+      "floor": 5,
+      "totalFloors": 10,
+      "facing": "南",
+      "totalUnits": 18
+    },
+    "monthly": {
+      "total": 210800,
+      "rent": 170000,
+      "maintenance": 10000,
+      "parking": 30800
+    },
+    "initial": {
+      "total": 340000,
+      "deposit": 170000,
+      "keyMoney": 170000,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 300,
+      "bikeParking": true,
+      "internet": "ネット使用料不要",
+      "garbageOnSite": null
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速1号羽田線 平和島出入口",
+        "driveMin": 6
+      },
+      "surroundings": [],
+      "hazard": {
+        "flood": "mid",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.ota.tokyo.jp/seikatsu/chiiki/bousai/suigai/hazardmap.html",
+        "note": "多摩川低地。多摩川氾濫時の想定最大規模降雨で1-3m級浸水想定"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": true
+    },
+    "fetchedAt": "2026-05-14"
+  },
+  {
+    "id": "bc_100503986386",
+    "suumoUrl": "https://suumo.jp/chintai/jnc_000049870663/?bc=100503986386",
+    "name": "GENOVIA上野IIskygarden",
+    "thumbnailPath": "thumbnails/bc_100503986386.jpg",
+    "photoUrls": [
+      "https://img01.suumo.com/front/gazo/fr/bukken/386/100503986386/100503986386_co.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/386/100503986386/100503986386_ro.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/386/100503986386/100503986386_2o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/386/100503986386/100503986386_1o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/386/100503986386/100503986386_10o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/386/100503986386/100503986386_8o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/386/100503986386/100503986386_6o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/386/100503986386/100503986386_7o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/386/100503986386/100503986386_9o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/386/100503986386/100503986386_11o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/386/100503986386/100503986386_5o.jpg",
+      "https://img01.suumo.com/front/gazo/fr/bukken/386/100503986386/100503986386_4o.jpg"
+    ],
+    "address": "東京都台東区北上野１",
+    "station": [
+      {
+        "line": "ＪＲ山手線",
+        "name": "鶯谷駅",
+        "walkMin": 8
+      },
+      {
+        "line": "ＪＲ京浜東北線",
+        "name": "上野駅",
+        "walkMin": 5
+      },
+      {
+        "line": "東京メトロ銀座線",
+        "name": "稲荷町駅",
+        "walkMin": 10
+      }
+    ],
+    "layout": {
+      "plan": "1LDK",
+      "areaSqm": 40.13
+    },
+    "building": {
+      "builtYear": 2019,
+      "structure": "鉄筋コン",
+      "floor": 5,
+      "totalFloors": 11,
+      "facing": "北",
+      "totalUnits": 30
+    },
+    "monthly": {
+      "total": 210000,
+      "rent": 165000,
+      "maintenance": 15000,
+      "parking": 30000
+    },
+    "initial": {
+      "total": 0,
+      "deposit": 0,
+      "keyMoney": 0,
+      "guarantee": 0
+    },
+    "facilities": {
+      "parkingDistanceM": 0,
+      "bikeParking": true,
+      "internet": "ネット使用料不要",
+      "garbageOnSite": true
+    },
+    "area": {
+      "nearestIc": {
+        "name": "首都高速 上野出入口",
+        "driveMin": 5
+      },
+      "surroundings": [],
+      "hazard": {
+        "flood": "mid",
+        "landslide": "low",
+        "tsunami": "low",
+        "sourceUrl": "https://www.city.taito.lg.jp/kurashi/anzen/saigai/hazardmap/index.html",
+        "note": "台東区下町低地。荒川氾濫時の浸水想定0.5-3m級"
+      }
+    },
+    "misc": {
+      "contractType": "普通借家",
+      "cornerUnit": true
+    },
+    "fetchedAt": "2026-05-14"
   }
 ]

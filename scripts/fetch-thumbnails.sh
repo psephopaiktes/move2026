@@ -20,12 +20,15 @@ fetch_one() {
   local html_tmp="/tmp/suumo_${id}.html"
   curl -sL -A "$UA" -o "$html_tmp" "$url" || { echo "  [FAIL fetch html] $id" >&2; return 1; }
 
-  # 物件画像URLを抽出（_ro=外観, _1o,2o,...=写真）。重複排除して順序保持
+  # 物件画像URLを抽出
+  # SUUMO命名規則:
+  #   _ro = 外観 / _co = 間取り図 / _go = 地図 / _1o,2o,... = 物件写真
+  # 地図(_go)は不要なので除外。間取り図(_co)は比較に有用なので残す。
   local urls
   urls=$(grep -oE 'https://img01\.suumo\.com/front/gazo/fr/bukken/[0-9]+/[0-9]+/[0-9]+_[a-z0-9]+\.jpg' "$html_tmp" \
     | awk '!seen[$0]++' \
-    | grep -vE '_(co|go)\.jpg$' \
-    | head -10)
+    | grep -vE '_go\.jpg$' \
+    | head -12)
 
   if [ -z "$urls" ]; then
     echo "  [WARN no images] $id" >&2

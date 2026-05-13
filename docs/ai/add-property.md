@@ -4,16 +4,25 @@
 
 ## ルール（明示的に指示されていない場合のデフォルト挙動）
 
-**LLM へ「この URL の物件を追加して」と指示されたら、以下の 3 つを必ず一括で行う:**
+**LLM へ「この URL の物件を追加して」と指示されたら、以下の 4 つを必ず一括で行う:**
 
-1. **追加**: 新URL を `suumo-list.md` と `src/data/properties.json` の両方に追加
+1. **追加**: 新URL を `suumo-list.md` と `src/data/properties.json` の両方に追加（**片方だけは禁止**）
 2. **生存チェック**: `suumo-list.md` の **全URL** に対して掲載状態を確認し、`/library/` リダイレクトしている物件は「掲載終了」として削除対象にする
-3. **削除**: 掲載終了物件を以下から全部削除
+3. **掲載終了の削除**: 掲載終了物件を以下から全部削除
    - `suumo-list.md` の該当行
    - `src/data/properties.json` の該当エントリ
    - `public/thumbnails/<id>.jpg`（存在すれば）
+4. **双方向同期**: `node scripts/sync-listings.mjs` を実行し、孤児（片方にだけ残った物件）を消す
+   - `properties.json` にあって `suumo-list.md` に無い → json から削除（+ thumbnail）
+   - `suumo-list.md` にあって `properties.json` に無い → list から削除
 
-ユーザーがこの手順を毎回指示する必要は無い。**追加・チェック・削除は1セット**として実行する。
+ユーザーがこの手順を毎回指示する必要は無い。**追加・チェック・削除・双方向同期は1セット**として実行する。
+
+### 双方向同期の不可侵ルール
+
+`suumo-list.md` と `properties.json` は **常に同じID集合を持つ**。どちらか片方にだけ残った物件は、ユーザーがもう片方から明示的に削除した意図と解釈し、`sync-listings.mjs` で両方から消す。
+
+- 片方しか更新したくないケース（例: 一時非表示）は **`hidden: true` フラグ** を properties.json の物件に付ける（[data-schema.md](./data-schema.md) 参照）。`hidden` 物件は両ファイルに存在し、UI からだけ消える。
 
 ただし「追加せず生存チェックだけ走らせて」「特定の1件だけ追加して同期は後で」のような明示的な指示があれば、それに従う。
 
@@ -77,6 +86,19 @@ WebFetch で以下のpromptを投げる:
 | `-` / `無し` / `0` | 0 |
 
 `monthly.total = rent + maintenance + parking`, `initial.total = deposit + keyMoney + guarantee` を必ず合致させる。
+
+### 駐車場距離 (`parkingDistanceM`) の特殊ケース
+
+| SUUMO表記 | 値 |
+| --- | --- |
+| `敷地内` | `0` （= 距離0m、null ではない） |
+| `123m` / `0.5km` | 数値（m単位）|
+| `近隣` / `周辺` のみで距離記載なし | `null` |
+| 駐車場欄が `未掲載` / 記載なし | `null` |
+
+「敷地内」を `null` にしてしまうと「未掲載」と区別できない。SUUMOページの「駐車場」欄に **「敷地内」と明記**されていれば必ず `0`。
+
+WebFetchの抽出時に取りこぼした場合は `node scripts/fix-onsite-parking.mjs --dry-run` で全 null 物件を再判定→`--dry-run` を外して適用できる。
 
 ### 3. 外部調査（ハザード・高速IC）
 
@@ -159,3 +181,4 @@ node scripts/check-listings.mjs   # 残った全件が ok / mismatch のみで g
 | `scripts/check-listings.mjs` | 全URLの生存状態・名前整合性を確認 |
 | `scripts/sync-listings.mjs` | suumo-list.md 基準で properties.json/thumbnails を同期削除 |
 | `scripts/swap-pairs.mjs` | データ取り違えのペアを手動入替（緊急時のみ） |
+| `scripts/fix-onsite-parking.mjs` | `parkingDistanceM: null` の物件を再判定し、「敷地内」表記なら 0 に補正 |

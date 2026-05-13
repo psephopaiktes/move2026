@@ -2,6 +2,23 @@
 
 `src/data/properties.json` のスキーマ。**正本は `src/lib/types.ts`** なので、変更時はそちらと両方を更新してください。
 
+## 物件の一時非表示
+
+`hidden: true` を物件に追加するとUI一覧から除外される。「一旦これは考えない」を表現するためのフラグ。例:
+
+```json
+{
+  "id": "bc_100502914439",
+  "name": "ＡＬＥＲＯ白山",
+  "hidden": true,
+  ...
+}
+```
+
+- 評価メモやデータは保持されるので、`hidden` を外せば即座に再表示される
+- ソート対象からも外れる
+- スクリプト (`check-listings.mjs` 等) は `hidden` の値にかかわらず全件を処理する（生存チェックは行われる）
+
 ## ルートは Property[]
 
 各物件は以下のフィールドを持つオブジェクトです。
@@ -31,7 +48,7 @@
 | `initial.deposit` | number |  | SUUMO敷金 | 円 |
 | `initial.keyMoney` | number |  | SUUMO礼金 | 円 |
 | `initial.guarantee` | number |  | SUUMO保証金 | 円。不明 0 |
-| `facilities.parkingDistanceM` | number \| null | ✅ | SUUMO駐車場備考 | m |
+| `facilities.parkingDistanceM` | number \| null | ✅ | SUUMO駐車場備考 | m。「敷地内」は **0** （null は「未掲載」を意味する） |
 | `facilities.bikeParking` | boolean \| null | ✅ | SUUMO設備 | |
 | `facilities.internet` | string \| null | ✅ | SUUMO設備 | `"光ファイバー"` 等 |
 | `facilities.garbageOnSite` | boolean \| null | ✅ | SUUMO設備 | |

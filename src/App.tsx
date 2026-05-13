@@ -6,7 +6,8 @@ import type { Property, Rating, RatingsMap } from "@/lib/types";
 import { PropertyList } from "@/components/PropertyList";
 import { SortBar } from "@/components/SortBar";
 
-const properties = propertiesData as unknown as Property[];
+// hidden: true の物件は一覧から除外（一時的に検討対象外にしたい物件）
+const properties = (propertiesData as unknown as Property[]).filter((p) => !p.hidden);
 
 export default function App() {
   const [ratings, setRatings] = useState<RatingsMap>({});

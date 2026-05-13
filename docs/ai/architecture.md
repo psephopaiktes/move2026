@@ -90,10 +90,13 @@ move2026/
 
 ## 追加・削除の運用原則
 
-**LLM へ「この URL の物件を追加して」と指示された場合、明示的に止められない限り以下の3つを一括実行する:**
+**LLM へ「この URL の物件を追加して」と指示された場合、明示的に止められない限り以下の4つを一括実行する:**
 
 1. 新URLを `suumo-list.md` と `properties.json` に追加
 2. `suumo-list.md` の全URLに対して生存チェック
 3. 掲載終了物件を `suumo-list.md` / `properties.json` / `public/thumbnails/` から削除
+4. `sync-listings.mjs` で **双方向同期** （片方にだけ残った孤児を両方から削除）
 
-これは [add-property.md](./add-property.md) の標準フローとして定義されているため、毎回手動指示する必要はない。
+`suumo-list.md` と `properties.json` は常に同じ ID 集合を持つことを保証する。一時非表示は `hidden: true` フラグで対応する（[data-schema.md](./data-schema.md) 参照）。
+
+詳細は [add-property.md](./add-property.md) の標準フロー。

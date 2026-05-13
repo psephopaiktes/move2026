@@ -114,6 +114,8 @@ export interface Property {
   misc: MiscInfo;
   /** データ取得日 (YYYY-MM-DD) */
   fetchedAt: string;
+  /** true にすると一覧から除外される（一時非表示）。省略可。 */
+  hidden?: boolean;
 }
 
 export interface Rating {

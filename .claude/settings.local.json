@@ -17,7 +17,12 @@
       "Bash(grep -oE '物件名[^<]{0,80}' /tmp/check_873998.html)",
       "Bash(grep -oE '所在地[^<]{0,50}' /tmp/check_873998.html)",
       "Bash(node /Users/a-hirata/Desktop/move2026/scripts/verify-names.mjs)",
-      "Bash(node /Users/a-hirata/Desktop/move2026/scripts/swap-pairs.mjs)"
+      "Bash(node /Users/a-hirata/Desktop/move2026/scripts/swap-pairs.mjs)",
+      "Bash(curl -sL -A Mozilla/5.0 'https://suumo.jp/chintai/jnc_000106461153/?bc=100497629925' -o /tmp/newprop.html -w 'final_url=%{url_effective}\\\\nhttp=%{http_code} size=%{size_download}\\\\n')",
+      "Bash(node -e \"console.log\\(require\\('/Users/a-hirata/Desktop/move2026/src/data/properties.json'\\).length\\)\")",
+      "Bash(node /Users/a-hirata/Desktop/move2026/scripts/check-listings.mjs)",
+      "Bash(node /Users/a-hirata/Desktop/move2026/scripts/sync-listings.mjs --dry-run)",
+      "WebSearch"
     ]
   }
 }

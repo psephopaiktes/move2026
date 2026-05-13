@@ -10,8 +10,8 @@ const properties = propertiesData as unknown as Property[];
 
 export default function App() {
   const [ratings, setRatings] = useState<RatingsMap>({});
-  const [sortKey, setSortKey] = useState<SortKey>("monthlyTotal");
-  const [sortDir, setSortDir] = useState<SortDir>("asc");
+  const [sortKey, setSortKey] = useState<SortKey>("rating");
+  const [sortDir, setSortDir] = useState<SortDir>("desc");
 
   useEffect(() => {
     loadRatings().then(setRatings);

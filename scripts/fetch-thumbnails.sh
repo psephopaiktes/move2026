@@ -56,22 +56,24 @@ fetch_one() {
 }
 
 # suumo-list.md からURL→IDを抜き出す（macOSのbash3でも動くように mapfile を避ける）
+# bc_xxx 直URLと jnc_*/?bc=xxx クエリの両方に対応。同じIDは重複排除。
 IDS=()
 while IFS= read -r line; do
   IDS+=("$line")
-done < <(grep -oE 'bc_[0-9]+' "$ROOT/suumo-list.md")
+done < <(grep -oE '(bc_|bc=)[0-9]+' "$ROOT/suumo-list.md" | sed 's/bc=/bc_/' | awk '!seen[$0]++')
 
 echo "Fetching ${#IDS[@]} properties (batches of $MAX_PARALLEL)..."
-batch=()
+batch=""
 for id in "${IDS[@]}"; do
   fetch_one "$id" &
-  batch+=($!)
-  if (( ${#batch[@]} >= MAX_PARALLEL )); then
-    for pid in "${batch[@]}"; do wait "$pid" || true; done
-    batch=()
+  batch="$batch $!"
+  count=$(echo "$batch" | wc -w | tr -d ' ')
+  if [ "$count" -ge "$MAX_PARALLEL" ]; then
+    for pid in $batch; do wait "$pid" || true; done
+    batch=""
   fi
 done
-for pid in "${batch[@]}"; do wait "$pid" || true; done
+for pid in $batch; do wait "$pid" || true; done
 
 # JSON組み立て
 python3 - "$THUMB_DIR" "$PHOTOS_OUT" "${IDS[@]}" <<'PY'

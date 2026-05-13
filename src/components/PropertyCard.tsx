@@ -13,6 +13,7 @@ import { PriceCell } from "./PriceCell";
 import { PhotoSlideshow } from "./PhotoSlideshow";
 import { HazardBadge } from "./HazardBadge";
 import { RatingControl } from "./RatingControl";
+import { StationCell } from "./StationCell";
 
 interface Props {
   property: Property;
@@ -91,13 +92,7 @@ export function PropertyCard({ property: p, rating, onRatingChange }: Props) {
             {fmtFloor(p.building.floor, p.building.totalFloors)} · {p.building.facing}
           </Field>
           <Field label="最寄駅">
-            {p.station[0] ? (
-              <>
-                {p.station[0].line} {p.station[0].name} · 徒歩{fmtMin(p.station[0].walkMin)}
-              </>
-            ) : (
-              "—"
-            )}
+            <StationCell stations={p.station} />
           </Field>
           <Field label="駐車場 / 駐輪">
             {fmtMeter(p.facilities.parkingDistanceM)} · 駐輪 {fmtBool(p.facilities.bikeParking)}

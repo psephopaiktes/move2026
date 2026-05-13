@@ -72,6 +72,28 @@ move2026/
 ## 関連ドキュメント
 
 - [data-schema.md](./data-schema.md) — `properties.json` の各フィールド意味
-- [add-property.md](./add-property.md) — 新規物件を1件追加する手順
+- [add-property.md](./add-property.md) — 物件の追加・廃止チェック・同期 標準フロー
 - [add-field.md](./add-field.md) — 新規フィールドを追加する手順（型/UI/ソート連動）
 - [ratings-storage.md](./ratings-storage.md) — 評価データの保存仕様
+
+## 補助スクリプト
+
+`scripts/` 以下にデータ整備系のスクリプトを置いている。詳細は [add-property.md](./add-property.md) を参照。
+
+| スクリプト | 用途 |
+| --- | --- |
+| `fetch-thumbnails.sh` | `suumo-list.md` 全件のサムネ画像と photoUrls を取得 |
+| `merge-photos.mjs` | photoUrls を properties.json にマージ |
+| `check-listings.mjs` | 全URLの生存状態と name 整合性を確認 |
+| `sync-listings.mjs` | suumo-list.md 基準で properties.json と thumbnails を同期削除 |
+| `swap-pairs.mjs` | データ取り違えペアの手動入替（緊急時のみ） |
+
+## 追加・削除の運用原則
+
+**LLM へ「この URL の物件を追加して」と指示された場合、明示的に止められない限り以下の3つを一括実行する:**
+
+1. 新URLを `suumo-list.md` と `properties.json` に追加
+2. `suumo-list.md` の全URLに対して生存チェック
+3. 掲載終了物件を `suumo-list.md` / `properties.json` / `public/thumbnails/` から削除
+
+これは [add-property.md](./add-property.md) の標準フローとして定義されているため、毎回手動指示する必要はない。

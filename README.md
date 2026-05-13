@@ -1,5 +1,7 @@
 # 2026年 引っ越し先 物件候補の調査
 
+https://psephopaiktes.github.io/move2026/
+
 こちらは人間が書いた初期要求書です。
 
 ## 目的

@@ -25,3 +25,7 @@ https://suumo.jp/chintai/jnc_000106034522/?bc=100505894381
 https://suumo.jp/chintai/jnc_000107059928/?bc=100506026683
 https://suumo.jp/chintai/jnc_000106678043/?bc=100505939365
 https://suumo.jp/chintai/jnc_000049870663/?bc=100503986386
+https://suumo.jp/chintai/jnc_000107068671/?bc=100506060443
+https://suumo.jp/chintai/jnc_000107059928/?bc=100506111460
+https://suumo.jp/chintai/jnc_000107020396/?bc=100506087118
+https://suumo.jp/chintai/jnc_000107082871/?bc=100506107753

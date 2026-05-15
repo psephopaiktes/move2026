@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(*)",
-      "Read(//tmp/**)",
+      "Edit(**)",
+      "Write(**)",
+      "Read(**)",
       "WebFetch(domain:suumo.jp)",
       "WebFetch(domain:disaportal.gsi.go.jp)",
       "WebFetch(domain:*.lg.jp)",
